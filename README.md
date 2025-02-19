@@ -32,8 +32,7 @@ Dataset_Building/Augmentation/kor_letter_rotation_rule.ipynb
 ```bash 
 Dataset_Building/Augmentation/kor_visual_transform_rule.ipynb
 ```
-> Applies transformation rules for the Korean Visual Transform Task dataset augmentation. Manual inspection ensures no redundant transformations are applied.
-> Manual inspection ensures that the same transformation rule is not applied redundantly.
+> Applies transformation rules for the Korean Visual Transform Task dataset augmentation. Manual inspection ensures that the same transformation rule is not applied redundantly.
 
 ### 2) Preprocessing
 To finalize the dataset for the experiment, preprocess the collected and augmented raw data. The sources of the raw dataset are documented in the research paper.
