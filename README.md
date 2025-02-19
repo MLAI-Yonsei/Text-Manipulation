@@ -64,13 +64,21 @@ The constructed dataset is stored in the `Dataset` folder. Use this dataset alon
 
 ### Available Prompts
 The `prompts.json` file contains all prompts for Zero-shot, CoT (Chain-of-Thought), and CoT+ICL (In-Context Learning) settings.
+```bash
+# Examples of prompts
+  "eng_visual_transform": {
+    "zrs_prompt": "The given words are leetspeak, which is transformed into a letter similar to the original alphabet.\n\nAnswer format:\nAnswer: [Original word]",
+    "cot_prompt": "The given words are leetspeak, which is transformed into a letter similar to the original alphabet. \nFollow these steps to decode the term and find the correct answer:\n1. Analyze each syllable.\n2. Guess visually similar alphabets.\n3. Combine the original words, including the syllables you guessed.\n\nAnswer format:\nProcessing: [Brief decoding steps]\nAnswer: [Original word]",
+    "icl_prompt": "The given words are leetspeak, which is transformed into a letter similar to the original alphabet. \nFollow these steps to decode the term and find the correct answer:\n1. Analyze each syllable.\n2. Guess visually similar alphabets.\n3. Combine the original words, including the syllables you guessed.\n\nExample : \"H3ll0, w0rld!\" \n- \"3\" is converted to \"e\". Reason: \"3\" is visually similar to \"E\". \n- \"0\" is converted to \"o.\" Reason: \"0\" is visually similar to \"o.\" \nOutput: \"Hello, world!\"\n\nAnswer format:\nProcessing: [Brief decoding steps]\nAnswer: [Original word]"
+```  
 
+### Available Models
 ```bash
 Task/gpt4o_batch.ipynb
 Task/gemini.ipynb
 Task/claude_batch.ipynb
 Task/gpto3mini.ipynb
-```  
+```
 
   
 ## Evaluation Preprocessing
