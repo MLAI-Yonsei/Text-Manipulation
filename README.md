@@ -45,11 +45,6 @@ Dataset_Building/eng_phonetic_preprocessing.ipynb
 > Filters phonetic similarity data for the English Phonetic Substitution task using the `double metaphone` algorithm.
 
 ```bash
-Dataset_Building/eng_abbreviation_preprocessing.ipynb
-```
-> Filters abbreviation-compliant data for the English Abbreviation task using the appropriate rules.
-
-```bash
 Dataset_Building/eng_split_letters.ipynb
 ```
 > Splits collected English words into consonants and vowels for the English Consonant & Vowel Combination task.
