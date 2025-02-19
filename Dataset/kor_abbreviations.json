@@ -1,0 +1,4002 @@
+[
+    {
+        "transformed": "짤방",
+        "original": "짤림 방지용 사진 추가"
+    },
+    {
+        "transformed": "친삭",
+        "original": "친구 삭제"
+    },
+    {
+        "transformed": "친신",
+        "original": "친구신청"
+    },
+    {
+        "transformed": "인스타",
+        "original": "인스타그램"
+    },
+    {
+        "transformed": "페북",
+        "original": "페이스북"
+    },
+    {
+        "transformed": "평반",
+        "original": "평생 반말"
+    },
+    {
+        "transformed": "평타치",
+        "original": "평균 타율 친다"
+    },
+    {
+        "transformed": "프사",
+        "original": "프로필 사진"
+    },
+    {
+        "transformed": "댓없",
+        "original": "댓글이 없다"
+    },
+    {
+        "transformed": "현웃",
+        "original": "현실에서 웃다"
+    },
+    {
+        "transformed": "혼생네컷",
+        "original": "혼자서 인생 네 컷"
+    },
+    {
+        "transformed": "혼틈",
+        "original": "혼란을 틈 타서"
+    },
+    {
+        "transformed": "힘숨찐",
+        "original": "힘을 숨긴 찐따"
+    },
+    {
+        "transformed": "잘알",
+        "original": "잘 아는 사람"
+    },
+    {
+        "transformed": "감동심",
+        "original": "감동 심하게 받았다"
+    },
+    {
+        "transformed": "개념글",
+        "original": "개념을 갖춘 글"
+    },
+    {
+        "transformed": "갠춘",
+        "original": "괜찮다"
+    },
+    {
+        "transformed": "고친",
+        "original": "고민을 들어주는 친구"
+    },
+    {
+        "transformed": "국룰",
+        "original": "국민룰"
+    },
+    {
+        "transformed": "군싹",
+        "original": "군침이 싹돈다"
+    },
+    {
+        "transformed": "깊꾸",
+        "original": "기프티콘 꾸미기"
+    },
+    {
+        "transformed": "나씨나길",
+        "original": "나는 씨발 나의 길을 간다"
+    },
+    {
+        "transformed": "날선승",
+        "original": "날조와 선동으로 승부"
+    },
+    {
+        "transformed": "남돌",
+        "original": "남자 아이돌"
+    },
+    {
+        "transformed": "여돌",
+        "original": "여자 아이돌"
+    },
+    {
+        "transformed": "낫닝겐",
+        "original": "인간이 아니다"
+    },
+    {
+        "transformed": "네다씹",
+        "original": "네 다음 씹덕후"
+    },
+    {
+        "transformed": "네카라쿠배",
+        "original": "네이버 카카오 라인플러스 쿠팡 배달의민족"
+    },
+    {
+        "transformed": "넵병",
+        "original": "넵으로만 대답하는 병"
+    },
+    {
+        "transformed": "누물보",
+        "original": "누구 물어 보신 분?"
+    },
+    {
+        "transformed": "돌거",
+        "original": "돌림 쪽지 거부"
+    },
+    {
+        "transformed": "라방",
+        "original": "라이브 방송"
+    },
+    {
+        "transformed": "트인낭",
+        "original": "트위터는 인생의 낭비"
+    },
+    {
+        "transformed": "인친실안",
+        "original": "인터넷상 친하지만 실제로는 안 친한 사이"
+    },
+    {
+        "transformed": "맞삭",
+        "original": "서로 마주 보고 삭제"
+    },
+    {
+        "transformed": "먹방",
+        "original": "먹는 방송"
+    },
+    {
+        "transformed": "명존쎄",
+        "original": "명치를 존나 세게 때리고 싶다"
+    },
+    {
+        "transformed": "몰컴",
+        "original": "몰래 컴퓨터"
+    },
+    {
+        "transformed": "무물",
+        "original": "무엇이든 물어 보세요"
+    },
+    {
+        "transformed": "무플",
+        "original": "리플이 없다"
+    },
+    {
+        "transformed": "미방",
+        "original": "미리보기 방지"
+    },
+    {
+        "transformed": "미존",
+        "original": "미친 존재감"
+    },
+    {
+        "transformed": "반갈죽",
+        "original": "반으로 갈라져서 죽어"
+    },
+    {
+        "transformed": "배사",
+        "original": "배경 사진"
+    },
+    {
+        "transformed": "버튜버",
+        "original": "버추얼 유튜버"
+    },
+    {
+        "transformed": "팬싸",
+        "original": "팬 싸인회"
+    },
+    {
+        "transformed": "페메",
+        "original": "페이스북 메시지"
+    },
+    {
+        "transformed": "포카",
+        "original": "포토 카드"
+    },
+    {
+        "transformed": "팔취",
+        "original": "팔로우 취소"
+    },
+    {
+        "transformed": "흠좀무",
+        "original": "흠 좀 무섭다"
+    },
+    {
+        "transformed": "희얼사",
+        "original": "희귀한얼굴 사진"
+    },
+    {
+        "transformed": "갑분띠",
+        "original": "갑자기 분위기 띠용"
+    },
+    {
+        "transformed": "개오",
+        "original": "개화동 오렌지족"
+    },
+    {
+        "transformed": "공홈",
+        "original": "공식 홈페이지"
+    },
+    {
+        "transformed": "관종",
+        "original": "관심종자"
+    },
+    {
+        "transformed": "구취",
+        "original": "구독 취소"
+    },
+    {
+        "transformed": "국힙원탑",
+        "original": "국내 힙합 원 탑"
+    },
+    {
+        "transformed": "끌올",
+        "original": "끌어 올린다"
+    },
+    {
+        "transformed": "내돈내산",
+        "original": "내 돈 주고 내가 산 물건"
+    },
+    {
+        "transformed": "녹방",
+        "original": "녹화 방송"
+    },
+    {
+        "transformed": "닥눈삼",
+        "original": "닥치고 눈팅 삼일"
+    },
+    {
+        "transformed": "닥본사",
+        "original": "닥치고 본방 사수"
+    },
+    {
+        "transformed": "돌판",
+        "original": "아이돌판"
+    },
+    {
+        "transformed": "뒷광고",
+        "original": "뒤에서 한 광고"
+    },
+    {
+        "transformed": "디코",
+        "original": "디스코드"
+    },
+    {
+        "transformed": "라노벨",
+        "original": "라이트 노벨"
+    },
+    {
+        "transformed": "로긴",
+        "original": "로그인"
+    },
+    {
+        "transformed": "리또속",
+        "original": "리플에게 또 속았다"
+    },
+    {
+        "transformed": "만찢남",
+        "original": "만화를 찢고 나온 남자"
+    },
+    {
+        "transformed": "만찢녀",
+        "original": "만화를 찢고 나온 여자"
+    },
+    {
+        "transformed": "맘체",
+        "original": "엄마 문체"
+    },
+    {
+        "transformed": "먹튀",
+        "original": "먹고 튀다"
+    },
+    {
+        "transformed": "코덕",
+        "original": "코스메틱 덕후"
+    },
+    {
+        "transformed": "모청",
+        "original": "모바일 청첩장"
+    },
+    {
+        "transformed": "청모",
+        "original": "청첩장 모임"
+    },
+    {
+        "transformed": "무개념글",
+        "original": "개념이 없는 글"
+    },
+    {
+        "transformed": "무나",
+        "original": "무료 나눔"
+    },
+    {
+        "transformed": "미존개오",
+        "original": "미친 존재감 개화동 오렌지족"
+    },
+    {
+        "transformed": "믿거페",
+        "original": "믿고 거르는 페이스북"
+    },
+    {
+        "transformed": "반유",
+        "original": "반말 모드 유지"
+    },
+    {
+        "transformed": "방며들다",
+        "original": "방탄소년단에게 스며들다"
+    },
+    {
+        "transformed": "방방봐",
+        "original": "방송은 방송으로 봐라"
+    },
+    {
+        "transformed": "친추",
+        "original": "친구 추가"
+    },
+    {
+        "transformed": "탐라",
+        "original": "타임라인"
+    },
+    {
+        "transformed": "팬아저",
+        "original": "팬이 아니어도 저장"
+    },
+    {
+        "transformed": "페친",
+        "original": "페이스북 친구"
+    },
+    {
+        "transformed": "폴꾸",
+        "original": "폴라로이드 사진 꾸미기"
+    },
+    {
+        "transformed": "하타치",
+        "original": "하위 타율 친다"
+    },
+    {
+        "transformed": "할많하않",
+        "original": "할 말은 많지만 하지 않겠다"
+    },
+    {
+        "transformed": "해연",
+        "original": "해외 연예인"
+    },
+    {
+        "transformed": "헬린이",
+        "original": "헬스 어린이"
+    },
+    {
+        "transformed": "혐짤",
+        "original": "혐오스러운 짤"
+    },
+    {
+        "transformed": "희연사",
+        "original": "희귀한 연예인 사진"
+    },
+    {
+        "transformed": "가계정",
+        "original": "가짜 정보를 써놓은 계정"
+    },
+    {
+        "transformed": "글설리",
+        "original": "글쓴이를 설레게 하는 리플"
+    },
+    {
+        "transformed": "꿀템",
+        "original": "꿀 아이템"
+    },
+    {
+        "transformed": "문신돼지국밥육수충",
+        "original": "문신을 하고 돼지국밥만 찾는 살쪄서 땀을 흘리는 사람"
+    },
+    {
+        "transformed": "반신",
+        "original": "반말 모드 신청"
+    },
+    {
+        "transformed": "먹노매",
+        "original": "먹이를 노리는 매의 눈"
+    },
+    {
+        "transformed": "문신충",
+        "original": "문신을 한 사람"
+    },
+    {
+        "transformed": "반맞반틀",
+        "original": "반은 맞고 반은 틀렸다"
+    },
+    {
+        "transformed": "최최차차",
+        "original": "최고는 최애고, 차은우는 차은우다"
+    },
+    {
+        "transformed": "팬픽",
+        "original": "팬 픽션"
+    },
+    {
+        "transformed": "페북스타",
+        "original": "페이스북 스타"
+    },
+    {
+        "transformed": "간퀴어",
+        "original": "간식 퀴즈 어려워"
+    },
+    {
+        "transformed": "너또다",
+        "original": "너 또 다이어트 하니? | 너도 또라이여서 다행이다"
+    },
+    {
+        "transformed": "단톡방",
+        "original": "단체 카카오톡 방"
+    },
+    {
+        "transformed": "될놈될",
+        "original": "될 놈은 된다"
+    },
+    {
+        "transformed": "호광킹",
+        "original": "호감형 광고 킹"
+    },
+    {
+        "transformed": "병크",
+        "original": "병신 크리티컬"
+    },
+    {
+        "transformed": "불소",
+        "original": "불타는 소통"
+    },
+    {
+        "transformed": "빼박",
+        "original": "빼도 박도 못한다"
+    },
+    {
+        "transformed": "뻘글",
+        "original": "뻘한 글"
+    },
+    {
+        "transformed": "상메",
+        "original": "상태 메세지"
+    },
+    {
+        "transformed": "상타치",
+        "original": "상위 타율 친다"
+    },
+    {
+        "transformed": "상탈남",
+        "original": "상의 탈의한 남자"
+    },
+    {
+        "transformed": "선리후감",
+        "original": "선 리플 후 감상"
+    },
+    {
+        "transformed": "선플",
+        "original": "선의의 리플"
+    },
+    {
+        "transformed": "설참",
+        "original": "설명 참고 | 설명 참조"
+    },
+    {
+        "transformed": "세젤귀",
+        "original": "세상에서 제일 귀엽다"
+    },
+    {
+        "transformed": "세젤멋",
+        "original": "세상에서 제일 멋지다"
+    },
+    {
+        "transformed": "세젤예",
+        "original": "세상에서 제일 예쁘다"
+    },
+    {
+        "transformed": "소지말박",
+        "original": "소리 지르지 말고 박수 쳐"
+    },
+    {
+        "transformed": "솜씻너",
+        "original": "솜사탕 씻는 너구리"
+    },
+    {
+        "transformed": "수겁",
+        "original": "수신 거부"
+    },
+    {
+        "transformed": "쉽살재빙",
+        "original": "쉽게만 살아가면 재미없어 빙고"
+    },
+    {
+        "transformed": "스밍",
+        "original": "스트리밍"
+    },
+    {
+        "transformed": "스불재",
+        "original": "스스로 불러온 재앙"
+    },
+    {
+        "transformed": "스샷",
+        "original": "스크린샷"
+    },
+    {
+        "transformed": "시강",
+        "original": "시선 강탈"
+    },
+    {
+        "transformed": "신꾸",
+        "original": "신발 꾸미기"
+    },
+    {
+        "transformed": "실매",
+        "original": "실시간 매니저"
+    },
+    {
+        "transformed": "실친",
+        "original": "실제 친구"
+    },
+    {
+        "transformed": "싫존주의",
+        "original": "싫어하는 것도 존중해 달라는 주의"
+    },
+    {
+        "transformed": "싫테",
+        "original": "싫어요 테러"
+    },
+    {
+        "transformed": "썩소",
+        "original": "썩은 미소"
+    },
+    {
+        "transformed": "쓸고퀄",
+        "original": "쓸데없이 높은 퀄리티"
+    },
+    {
+        "transformed": "아사",
+        "original": "아는 척 사기치다"
+    },
+    {
+        "transformed": "악플러",
+        "original": "악성 리플 다는 사람"
+    },
+    {
+        "transformed": "안물안궁",
+        "original": "안 물어보았고 안 궁금하다"
+    },
+    {
+        "transformed": "안여돼",
+        "original": "안경 쓴 여드름 난 돼지"
+    },
+    {
+        "transformed": "안여멸",
+        "original": "안경 쓴 여드름 난 멸치"
+    },
+    {
+        "transformed": "알잘딱깔센",
+        "original": "알아서 잘 딱 깔끔하고 센스있게"
+    },
+    {
+        "transformed": "야동",
+        "original": "야한 동영상"
+    },
+    {
+        "transformed": "야사",
+        "original": "야한 사진"
+    },
+    {
+        "transformed": "억빠",
+        "original": "억지로 빤다"
+    },
+    {
+        "transformed": "엑박",
+        "original": "엑스박스"
+    },
+    {
+        "transformed": "여병추",
+        "original": "여기 병신 추가요"
+    },
+    {
+        "transformed": "영통",
+        "original": "영상 통화"
+    },
+    {
+        "transformed": "오놀아놈",
+        "original": "오 놀줄 아는 놈인가"
+    },
+    {
+        "transformed": "오뱅알",
+        "original": "오늘 방송 알찼다"
+    },
+    {
+        "transformed": "오뱅없",
+        "original": "오늘 방송 없나요"
+    },
+    {
+        "transformed": "오하운",
+        "original": "오늘 하루 운동"
+    },
+    {
+        "transformed": "온콘",
+        "original": "온라인 콘서트"
+    },
+    {
+        "transformed": "완내스",
+        "original": "완전 내 스타일"
+    },
+    {
+        "transformed": "완소",
+        "original": "완전 소중"
+    },
+    {
+        "transformed": "왤캐",
+        "original": "왜 이렇게 "
+    },
+    {
+        "transformed": "위꼴사",
+        "original": "위가 꼴리는 사진"
+    },
+    {
+        "transformed": "위꾸",
+        "original": "위를 꾸민다"
+    },
+    {
+        "transformed": "유하",
+        "original": "유튜브 하이"
+    },
+    {
+        "transformed": "윰차",
+        "original": "유모차"
+    },
+    {
+        "transformed": "은꼴사",
+        "original": "은근히 꼴리는 사진"
+    },
+    {
+        "transformed": "뮤뱅",
+        "original": "뮤직뱅크"
+    },
+    {
+        "transformed": "엠카",
+        "original": "엠카운트다운"
+    },
+    {
+        "transformed": "음중",
+        "original": "음악중심"
+    },
+    {
+        "transformed": "이뭐병",
+        "original": "이건 뭐하는 병신"
+    },
+    {
+        "transformed": "이생망",
+        "original": "이번 생은 망했다"
+    },
+    {
+        "transformed": "이왜진",
+        "original": "이게 왜 진짜임"
+    },
+    {
+        "transformed": "익게",
+        "original": "익명 게시판"
+    },
+    {
+        "transformed": "인라방",
+        "original": "인스타 라이브 방송"
+    },
+    {
+        "transformed": "인방갤",
+        "original": "인터넷 방송 갤러리"
+    },
+    {
+        "transformed": "인자강",
+        "original": "인간 자체가 강하다"
+    },
+    {
+        "transformed": "일생가",
+        "original": "일상생활 가능"
+    },
+    {
+        "transformed": "일코",
+        "original": "일반인 코스튬플레이"
+    },
+    {
+        "transformed": "자강두천",
+        "original": "자존심 강한 두 천재"
+    },
+    {
+        "transformed": "자삭",
+        "original": "자진 삭제"
+    },
+    {
+        "transformed": "장꾸",
+        "original": "장난꾸러기"
+    },
+    {
+        "transformed": "재미뿌",
+        "original": "재미를 뿌셨다"
+    },
+    {
+        "transformed": "잼",
+        "original": "재미"
+    },
+    {
+        "transformed": "전공",
+        "original": "전체 공개"
+    },
+    {
+        "transformed": "전일",
+        "original": "전세계 1위"
+    },
+    {
+        "transformed": "전쪽",
+        "original": "전체 쪽지"
+    },
+    {
+        "transformed": "정뚝떨",
+        "original": "정이 뚝 떨어지다"
+    },
+    {
+        "transformed": "정줄놓",
+        "original": "정신줄을 놓았다"
+    },
+    {
+        "transformed": "제곧내",
+        "original": "제목이 곧 내용"
+    },
+    {
+        "transformed": "제당슈만",
+        "original": "제가 당신을 슈퍼스타로 만들어드릴게요"
+    },
+    {
+        "transformed": "졌잘싸",
+        "original": "졌지만 잘 싸웠다"
+    },
+    {
+        "transformed": "존모",
+        "original": "존댓말 모드"
+    },
+    {
+        "transformed": "좋댓구알",
+        "original": "좋아요, 댓글, 구독, 알림설정"
+    },
+    {
+        "transformed": "죽반",
+        "original": "죽어도 반말 모드"
+    },
+    {
+        "transformed": "지못미",
+        "original": "지켜주지 못해 미안해"
+    },
+    {
+        "transformed": "지뺏",
+        "original": "지인 뺏기"
+    },
+    {
+        "transformed": "스압",
+        "original": "스크롤 압박"
+    },
+    {
+        "transformed": "악개",
+        "original": "악성 개인 팬"
+    },
+    {
+        "transformed": "남초",
+        "original": "남자의 수가 여자의 수를 초과하는 상태"
+    },
+    {
+        "transformed": "여초",
+        "original": "여자의 수가 남자의 수를 초과하는 상태"
+    },
+    {
+        "transformed": "우귀체",
+        "original": "우주에서 제일 귀여운 생명체"
+    },
+    {
+        "transformed": "이선좌",
+        "original": "이미 선택된 좌석"
+    },
+    {
+        "transformed": "인친",
+        "original": "인스타그램 친구"
+    },
+    {
+        "transformed": "정모",
+        "original": "정기 모임"
+    },
+    {
+        "transformed": "좋테",
+        "original": "좋아요 테러"
+    },
+    {
+        "transformed": "직찍사",
+        "original": "직접 찍은 사진"
+    },
+    {
+        "transformed": "뷰알못",
+        "original": "뷰티를 잘 알지 못하는 사람"
+    },
+    {
+        "transformed": "삼현엘",
+        "original": "삼성 현대 엘지"
+    },
+    {
+        "transformed": "숨듣명",
+        "original": "숨어 듣는 명곡"
+    },
+    {
+        "transformed": "악플",
+        "original": "악성 리플"
+    },
+    {
+        "transformed": "애빼시",
+        "original": "애교 빼면 시체"
+    },
+    {
+        "transformed": "언플",
+        "original": "언론플레이"
+    },
+    {
+        "transformed": "열폭",
+        "original": "열등감 폭발"
+    },
+    {
+        "transformed": "오운완",
+        "original": "오늘의 운동 완료"
+    },
+    {
+        "transformed": "우사모",
+        "original": "우리 것을 사랑하는 사람들의 모임"
+    },
+    {
+        "transformed": "유바",
+        "original": "유튜브 바이"
+    },
+    {
+        "transformed": "이얼사",
+        "original": "이기적인 얼굴 사이즈"
+    },
+    {
+        "transformed": "자컨",
+        "original": "자체 제작 컨텐츠"
+    },
+    {
+        "transformed": "직캠",
+        "original": "직접 찍은 영상"
+    },
+    {
+        "transformed": "반모",
+        "original": "반말 모드"
+    },
+    {
+        "transformed": "키배",
+        "original": "키보드 배틀"
+    },
+    {
+        "transformed": "피코",
+        "original": "피해자 코스프레"
+    },
+    {
+        "transformed": "개딸",
+        "original": "개같은 성격의 딸"
+    },
+    {
+        "transformed": "딸램",
+        "original": "딸내미"
+    },
+    {
+        "transformed": "울",
+        "original": "우리"
+    },
+    {
+        "transformed": "마눌",
+        "original": "마누라"
+    },
+    {
+        "transformed": "스드메",
+        "original": "스튜디오 드레스 메이크업"
+    },
+    {
+        "transformed": "시누",
+        "original": "시누이"
+    },
+    {
+        "transformed": "신행",
+        "original": "신혼여행"
+    },
+    {
+        "transformed": "애유엄브",
+        "original": "애는 유치원에 보내고 엄마들끼리 브런치를 먹다"
+    },
+    {
+        "transformed": "엄카",
+        "original": "엄마 카드"
+    },
+    {
+        "transformed": "예랑",
+        "original": "예비 신랑"
+    },
+    {
+        "transformed": "키카",
+        "original": "키즈 카페"
+    },
+    {
+        "transformed": "아들램",
+        "original": "아들래미"
+    },
+    {
+        "transformed": "예신",
+        "original": "예비 신부"
+    },
+    {
+        "transformed": "완모",
+        "original": "완전 모유수유"
+    },
+    {
+        "transformed": "강퇴",
+        "original": "강제 퇴장"
+    },
+    {
+        "transformed": "겜",
+        "original": "게임"
+    },
+    {
+        "transformed": "공템",
+        "original": "공격 아이템"
+    },
+    {
+        "transformed": "길막",
+        "original": "길을 막다"
+    },
+    {
+        "transformed": "끔살",
+        "original": "끔찍하게 살해하다"
+    },
+    {
+        "transformed": "닥돌",
+        "original": "닥치고 돌격"
+    },
+    {
+        "transformed": "던파",
+        "original": "던전앤파이터"
+    },
+    {
+        "transformed": "딜찍누",
+        "original": "압도적인 딜로 찍어 누른다"
+    },
+    {
+        "transformed": "레어템",
+        "original": "귀하고 좋은 아이템"
+    },
+    {
+        "transformed": "렙업",
+        "original": "레벨 업"
+    },
+    {
+        "transformed": "렙제",
+        "original": "레벨 제한"
+    },
+    {
+        "transformed": "로아",
+        "original": "로스트 아크"
+    },
+    {
+        "transformed": "맵리",
+        "original": "맵리딩"
+    },
+    {
+        "transformed": "메갤",
+        "original": "메이플스토리 갤러리"
+    },
+    {
+        "transformed": "메린이",
+        "original": "메이플스토리 어린이"
+    },
+    {
+        "transformed": "미연시",
+        "original": "미소녀 연애 시뮬레이션"
+    },
+    {
+        "transformed": "발컨",
+        "original": "발로 컨트롤한다"
+    },
+    {
+        "transformed": "배그",
+        "original": "배틀그라운드"
+    },
+    {
+        "transformed": "베댓",
+        "original": "베스트 댓글"
+    },
+    {
+        "transformed": "본캐",
+        "original": "본계정 캐릭터"
+    },
+    {
+        "transformed": "부캐",
+        "original": "부계정 캐릭터"
+    },
+    {
+        "transformed": "스겜",
+        "original": "스피드 게임"
+    },
+    {
+        "transformed": "스타",
+        "original": "스타크래프트"
+    },
+    {
+        "transformed": "야겜",
+        "original": "야한 게임"
+    },
+    {
+        "transformed": "양학",
+        "original": "양민 학살"
+    },
+    {
+        "transformed": "옵치",
+        "original": "오버워치"
+    },
+    {
+        "transformed": "죽밀라",
+        "original": "죽어도 밀어야 하는 라인"
+    },
+    {
+        "transformed": "캐삭빵",
+        "original": "캐릭터 삭제 빵"
+    },
+    {
+        "transformed": "평타",
+        "original": "평균 타격"
+    },
+    {
+        "transformed": "피방",
+        "original": "피시방"
+    },
+    {
+        "transformed": "개돌",
+        "original": "개같이 돌격"
+    },
+    {
+        "transformed": "궁극기",
+        "original": "궁극의 기술"
+    },
+    {
+        "transformed": "닉값",
+        "original": "닉네임 값"
+    },
+    {
+        "transformed": "당듀금",
+        "original": "당분간 듀오 금지"
+    },
+    {
+        "transformed": "뒤치",
+        "original": "뒤에서 치다"
+    },
+    {
+        "transformed": "디아",
+        "original": "디아블로"
+    },
+    {
+        "transformed": "무공해",
+        "original": "무조건 공격 해"
+    },
+    {
+        "transformed": "방템",
+        "original": "방어 아이템"
+    },
+    {
+        "transformed": "배린이",
+        "original": "배틀그라운드 어린이"
+    },
+    {
+        "transformed": "스나",
+        "original": "스나이퍼"
+    },
+    {
+        "transformed": "스듀",
+        "original": "스타듀밸리"
+    },
+    {
+        "transformed": "신컨",
+        "original": "신의 경지에 이른 컨트롤"
+    },
+    {
+        "transformed": "옆치",
+        "original": "옆에서 치다"
+    },
+    {
+        "transformed": "임포",
+        "original": "임포스터"
+    },
+    {
+        "transformed": "즉리",
+        "original": "즉시 리스폰"
+    },
+    {
+        "transformed": "캐릭",
+        "original": "캐릭터"
+    },
+    {
+        "transformed": "피흡",
+        "original": "ph 흡수"
+    },
+    {
+        "transformed": "필밴",
+        "original": "필수 밴"
+    },
+    {
+        "transformed": "동숲",
+        "original": "동물의 숲"
+    },
+    {
+        "transformed": "즐겜",
+        "original": "즐겁게 게임"
+    },
+    {
+        "transformed": "카러플",
+        "original": "카트라이더 러쉬 플러스"
+    },
+    {
+        "transformed": "크리",
+        "original": "크리티컬"
+    },
+    {
+        "transformed": "크카",
+        "original": "크로스 카운터"
+    },
+    {
+        "transformed": "고렙",
+        "original": "레벨이 높음"
+    },
+    {
+        "transformed": "가성비",
+        "original": "가격 대비 성능 비율"
+    },
+    {
+        "transformed": "가심비",
+        "original": "가격 대비 심리적 만족 비율"
+    },
+    {
+        "transformed": "공구방",
+        "original": "공동 구매 방"
+    },
+    {
+        "transformed": "김프",
+        "original": "김치 프리미엄"
+    },
+    {
+        "transformed": "대팔대사",
+        "original": "대충 팔고 대충 사자"
+    },
+    {
+        "transformed": "빚투",
+        "original": "빚을 내서 투자한다"
+    },
+    {
+        "transformed": "손절",
+        "original": "손해 보고 절교"
+    },
+    {
+        "transformed": "종토방",
+        "original": "종목토론방"
+    },
+    {
+        "transformed": "주잘알",
+        "original": "주식 잘 아는 사람"
+    },
+    {
+        "transformed": "즉구",
+        "original": "즉시 구매"
+    },
+    {
+        "transformed": "추매",
+        "original": "추가 매수"
+    },
+    {
+        "transformed": "토스매매법",
+        "original": "공을 토스하듯 빠르게 매수매도하는 방법"
+    },
+    {
+        "transformed": "현영",
+        "original": "현금 영수증"
+    },
+    {
+        "transformed": "성투",
+        "original": "성공한 투자"
+    },
+    {
+        "transformed": "편리미엄",
+        "original": "편리함이 곧 프리미엄"
+    },
+    {
+        "transformed": "직구",
+        "original": "직접구매"
+    },
+    {
+        "transformed": "인생템",
+        "original": "인생 아이템"
+    },
+    {
+        "transformed": "고삼",
+        "original": "고등학교 3학년"
+    },
+    {
+        "transformed": "국산사자",
+        "original": "국어 산수 사회 자연"
+    },
+    {
+        "transformed": "궁사물사",
+        "original": "궁금한 사람? 물어본 사람?"
+    },
+    {
+        "transformed": "귀공자",
+        "original": "귀한 공부시간에 자는 놈"
+    },
+    {
+        "transformed": "기포",
+        "original": "기말고사 포기"
+    },
+    {
+        "transformed": "남고",
+        "original": "남자 고등학교"
+    },
+    {
+        "transformed": "여고",
+        "original": "여자 고등학교"
+    },
+    {
+        "transformed": "남아공",
+        "original": "남아서 공부나 해라"
+    },
+    {
+        "transformed": "누백",
+        "original": "누적 백분위"
+    },
+    {
+        "transformed": "문식답",
+        "original": "문제, 식, 답"
+    },
+    {
+        "transformed": "재수생",
+        "original": "재수를 하는 학생"
+    },
+    {
+        "transformed": "변시",
+        "original": "변호사 시험"
+    },
+    {
+        "transformed": "사시",
+        "original": "사법고시"
+    },
+    {
+        "transformed": "행시",
+        "original": "행정고시"
+    },
+    {
+        "transformed": "국시",
+        "original": "국가고시"
+    },
+    {
+        "transformed": "임용",
+        "original": "임용고시"
+    },
+    {
+        "transformed": "변표",
+        "original": "변환표준점수"
+    },
+    {
+        "transformed": "사배자",
+        "original": "사회 배려 대상자"
+    },
+    {
+        "transformed": "과고",
+        "original": "과학고등학교"
+    },
+    {
+        "transformed": "서성한이",
+        "original": "서강대, 성균관대, 한양대, 이화여대"
+    },
+    {
+        "transformed": "서연가울성",
+        "original": "서울대, 연세대, 가톨릭대, 울산대, 성균관대"
+    },
+    {
+        "transformed": "서연고",
+        "original": "서울대, 연세대, 고려대"
+    },
+    {
+        "transformed": "서카포유지디",
+        "original": "서울대, 카이스트, 포스텍, 유니스트, 지스트, 디지스트"
+    },
+    {
+        "transformed": "셤",
+        "original": "시험"
+    },
+    {
+        "transformed": "수특",
+        "original": "수능특강"
+    },
+    {
+        "transformed": "수포자",
+        "original": "수학 포기자"
+    },
+    {
+        "transformed": "쌤",
+        "original": "선생님"
+    },
+    {
+        "transformed": "아닥공",
+        "original": "아, 닥치고 공부"
+    },
+    {
+        "transformed": "엄친아",
+        "original": "엄마 친구 아들"
+    },
+    {
+        "transformed": "열공",
+        "original": "열심히 공부"
+    },
+    {
+        "transformed": "영유",
+        "original": "영어 유치원"
+    },
+    {
+        "transformed": "영잘알",
+        "original": "영어 잘아는 사람"
+    },
+    {
+        "transformed": "영포자",
+        "original": "영어 포기자"
+    },
+    {
+        "transformed": "유천",
+        "original": "유치원"
+    },
+    {
+        "transformed": "인구론",
+        "original": "인문계 90%는 논다"
+    },
+    {
+        "transformed": "일유",
+        "original": "일반 유치원"
+    },
+    {
+        "transformed": "자동봉진",
+        "original": "자율활동, 동아리활동, 봉사활동, 진로활동"
+    },
+    {
+        "transformed": "재종학원",
+        "original": "재수 종합 학원"
+    },
+    {
+        "transformed": "조삼모사",
+        "original": "조금 모르면 삼 번 완전 모르면 사 번"
+    },
+    {
+        "transformed": "중경외시",
+        "original": "중앙대, 경희대, 외국어대, 시립대"
+    },
+    {
+        "transformed": "중유",
+        "original": "중국 유치원"
+    },
+    {
+        "transformed": "컴공",
+        "original": "컴퓨터 공학"
+    },
+    {
+        "transformed": "표점",
+        "original": "표준 점수"
+    },
+    {
+        "transformed": "공고",
+        "original": "공업고등학교"
+    },
+    {
+        "transformed": "생기부",
+        "original": "생활기록부"
+    },
+    {
+        "transformed": "건동홍숙",
+        "original": "건국대, 동국대, 홍익대, 숙명여대"
+    },
+    {
+        "transformed": "섭",
+        "original": "수업"
+    },
+    {
+        "transformed": "일타강사",
+        "original": "1등 스타 강사"
+    },
+    {
+        "transformed": "입결",
+        "original": "입시 결과"
+    },
+    {
+        "transformed": "중이",
+        "original": "중학교 2학년"
+    },
+    {
+        "transformed": "풀강",
+        "original": "풀 출석하는 강의"
+    },
+    {
+        "transformed": "클겨",
+        "original": "클린한 겨드랑이"
+    },
+    {
+        "transformed": "나다싶",
+        "original": "나다 싶으면 하자"
+    },
+    {
+        "transformed": "동사나사",
+        "original": "동기 사랑 나라 사랑"
+    },
+    {
+        "transformed": "밀덕",
+        "original": "밀리터리 덕후"
+    },
+    {
+        "transformed": "상근",
+        "original": "상시 근무하는 예비역"
+    },
+    {
+        "transformed": "선탑",
+        "original": "선임탑승자"
+    },
+    {
+        "transformed": "싸지방",
+        "original": "사이버 지식 정보방"
+    },
+    {
+        "transformed": "오대기",
+        "original": "5분 대기조"
+    },
+    {
+        "transformed": "일말상초",
+        "original": "일병 말에서 상병 초반에 연인과 헤어질 가능성이 높다"
+    },
+    {
+        "transformed": "장포대",
+        "original": "장성진급을 포기한 대령"
+    },
+    {
+        "transformed": "진누",
+        "original": "진급누락"
+    },
+    {
+        "transformed": "짬찌",
+        "original": "짬밥 찌끄래기"
+    },
+    {
+        "transformed": "덕계못",
+        "original": "덕후는 계를 못탄다"
+    },
+    {
+        "transformed": "손오공",
+        "original": "손님이 오늘 제일 잘 친공"
+    },
+    {
+        "transformed": "어잘공",
+        "original": "어쩌다 잘 친 공"
+    },
+    {
+        "transformed": "용아맥",
+        "original": "용산 아이파크몰 CGV 아이맥스관"
+    },
+    {
+        "transformed": "아맥",
+        "original": "아이맥스"
+    },
+    {
+        "transformed": "용포디",
+        "original": "용산 4DX"
+    },
+    {
+        "transformed": "호캉스",
+        "original": "호텔에서의 바캉스"
+    },
+    {
+        "transformed": "홈트",
+        "original": "홈 트레이닝"
+    },
+    {
+        "transformed": "예대",
+        "original": "예매 대기 | 예술 대학"
+    },
+    {
+        "transformed": "취켓팅",
+        "original": "취소표 티켓팅"
+    },
+    {
+        "transformed": "가싶남",
+        "original": "가지고싶을 정도의 잘생기거나 매력있는 남자"
+    },
+    {
+        "transformed": "가싶녀",
+        "original": "가지고싶을 정도의 예쁘거나 매력있는 여자"
+    },
+    {
+        "transformed": "갈비",
+        "original": "갈수록 비호감"
+    },
+    {
+        "transformed": "과팅",
+        "original": "다른 학과끼리 하는 소개팅"
+    },
+    {
+        "transformed": "걸조",
+        "original": "걸어 다니는 조각상"
+    },
+    {
+        "transformed": "결송합니다",
+        "original": "결혼해서 죄송합니다"
+    },
+    {
+        "transformed": "결정사",
+        "original": "결혼 정보 회사"
+    },
+    {
+        "transformed": "구남친",
+        "original": "구 남자친구"
+    },
+    {
+        "transformed": "구여친",
+        "original": "구 여자친구"
+    },
+    {
+        "transformed": "금사빠",
+        "original": "금방 사랑에 빠지는 사람"
+    },
+    {
+        "transformed": "까도남",
+        "original": "까칠하고 도도한 남자 | 까칠한 도시 남자"
+    },
+    {
+        "transformed": "까도녀",
+        "original": "까칠하고 도도한 여자 | 까칠한 도시 여자"
+    },
+    {
+        "transformed": "꾸안꾸",
+        "original": "꾸민듯 안 꾸민듯"
+    },
+    {
+        "transformed": "남미새",
+        "original": "남자에 미친 새끼"
+    },
+    {
+        "transformed": "남사친",
+        "original": "남자 사람 친구"
+    },
+    {
+        "transformed": "남소",
+        "original": "남자 소개"
+    },
+    {
+        "transformed": "남친",
+        "original": "남자친구"
+    },
+    {
+        "transformed": "뇌섹남",
+        "original": "뇌가 섹시한 남자"
+    },
+    {
+        "transformed": "뇌섹녀",
+        "original": "뇌가 섹시한 여자"
+    },
+    {
+        "transformed": "당나귀",
+        "original": "당신은 나의 귀염둥이"
+    },
+    {
+        "transformed": "돌싱",
+        "original": "돌아온 싱글"
+    },
+    {
+        "transformed": "따도남",
+        "original": "따듯한 도시 남자"
+    },
+    {
+        "transformed": "따도녀",
+        "original": "따듯한 도시 여자"
+    },
+    {
+        "transformed": "만찢남녀",
+        "original": "만화를 찢고 나온 남자 여자"
+    },
+    {
+        "transformed": "만찢커플",
+        "original": "만화를 찢고 나온  커플"
+    },
+    {
+        "transformed": "모솔",
+        "original": "모태 솔로"
+    },
+    {
+        "transformed": "밀당",
+        "original": "밀고 당기기"
+    },
+    {
+        "transformed": "번따",
+        "original": "번호 따기"
+    },
+    {
+        "transformed": "볼매",
+        "original": "볼수록 매력있다"
+    },
+    {
+        "transformed": "부없남",
+        "original": "부러울게 없는 남자"
+    },
+    {
+        "transformed": "부없녀",
+        "original": "부러울게 없는 여자"
+    },
+    {
+        "transformed": "비담",
+        "original": "비주얼 담당"
+    },
+    {
+        "transformed": "심멎",
+        "original": "심장이 멎다"
+    },
+    {
+        "transformed": "아만추",
+        "original": "아무나 만남 추구"
+    },
+    {
+        "transformed": "여미새",
+        "original": "여자에 미친새끼"
+    },
+    {
+        "transformed": "여사친",
+        "original": "여자 사람 친구"
+    },
+    {
+        "transformed": "여소",
+        "original": "여자 소개"
+    },
+    {
+        "transformed": "여친",
+        "original": "여자친구"
+    },
+    {
+        "transformed": "연서복",
+        "original": "연애에 서툰 복학생"
+    },
+    {
+        "transformed": "예지앞사",
+        "original": "예전이나 지금이나 앞으로도 사랑해"
+    },
+    {
+        "transformed": "우유남",
+        "original": "우월한 유전자 남자"
+    },
+    {
+        "transformed": "인만추",
+        "original": "인위적인 만남 추구"
+    },
+    {
+        "transformed": "자만추",
+        "original": "자연스런 만남 추구"
+    },
+    {
+        "transformed": "전남친",
+        "original": "전 남자친구"
+    },
+    {
+        "transformed": "전여친",
+        "original": "전 여자친구"
+    },
+    {
+        "transformed": "좋못사",
+        "original": "좋다 못해 사랑함"
+    },
+    {
+        "transformed": "찐사랑",
+        "original": "진짜 사랑"
+    },
+    {
+        "transformed": "미도남",
+        "original": "미지근한 도시의 남자"
+    },
+    {
+        "transformed": "미도녀",
+        "original": "미지근한 도시의 여자"
+    },
+    {
+        "transformed": "비혼",
+        "original": "혼인하지 않음"
+    },
+    {
+        "transformed": "얼짱",
+        "original": "얼굴 짱"
+    },
+    {
+        "transformed": "완소남",
+        "original": "완전 소중한 남자"
+    },
+    {
+        "transformed": "완소녀",
+        "original": "완전 소중한 여자"
+    },
+    {
+        "transformed": "감튀",
+        "original": "감자튀김"
+    },
+    {
+        "transformed": "갑붕싸",
+        "original": "갑자기 붕어 싸만코 먹고 싶다"
+    },
+    {
+        "transformed": "겉바속촉",
+        "original": "겉은 바삭하고 속은 촉촉함"
+    },
+    {
+        "transformed": "김떡순",
+        "original": "김밥 떡볶이 순대"
+    },
+    {
+        "transformed": "김볶",
+        "original": "김치볶음밥"
+    },
+    {
+        "transformed": "낙곱새",
+        "original": "낙지 곱창 새우"
+    },
+    {
+        "transformed": "노맛",
+        "original": "맛이 없다"
+    },
+    {
+        "transformed": "단짠",
+        "original": "달고 짜다 | 단 것 후에 짠 것"
+    },
+    {
+        "transformed": "닭칼",
+        "original": "닭칼국수"
+    },
+    {
+        "transformed": "당모치",
+        "original": "당연히 모든 치킨은 옳다"
+    },
+    {
+        "transformed": "딱복",
+        "original": "딱딱한 복숭아"
+    },
+    {
+        "transformed": "떡튀순",
+        "original": "떡볶이 튀김 순대"
+    },
+    {
+        "transformed": "맛잘알",
+        "original": "맛을 잘 아는 사람"
+    },
+    {
+        "transformed": "맛저",
+        "original": "맛있는 저녁"
+    },
+    {
+        "transformed": "맛점",
+        "original": "맛있는 점심"
+    },
+    {
+        "transformed": "맛집",
+        "original": "맛있는 음식을 파는 집"
+    },
+    {
+        "transformed": "물냉",
+        "original": "물냉면"
+    },
+    {
+        "transformed": "물복",
+        "original": "물렁한 복숭아"
+    },
+    {
+        "transformed": "미피",
+        "original": "미스터 피자"
+    },
+    {
+        "transformed": "민초",
+        "original": "민트 초코"
+    },
+    {
+        "transformed": "바칼",
+        "original": "바지락 칼국수"
+    },
+    {
+        "transformed": "배라",
+        "original": "배스킨라빈스"
+    },
+    {
+        "transformed": "베토디",
+        "original": "베이컨 토마토 디럭스"
+    },
+    {
+        "transformed": "부먹",
+        "original": "탕수육에 소스를 부어먹는 것"
+    },
+    {
+        "transformed": "불낙",
+        "original": "불고기 낙지 전골"
+    },
+    {
+        "transformed": "불닭",
+        "original": "불닭볶음면"
+    },
+    {
+        "transformed": "불백",
+        "original": "불고기 백반"
+    },
+    {
+        "transformed": "비냉",
+        "original": "비빔냉면"
+    },
+    {
+        "transformed": "사우나",
+        "original": "사랑과 우정을 나누자는 건배사"
+    },
+    {
+        "transformed": "샴",
+        "original": "샴페인"
+    },
+    {
+        "transformed": "섭샴",
+        "original": "서비스 샴페인"
+    },
+    {
+        "transformed": "소맥",
+        "original": "소주와 맥주를 섞은 것 | 소주와 맥주"
+    },
+    {
+        "transformed": "술찌",
+        "original": "술 찌끄래기"
+    },
+    {
+        "transformed": "스벅",
+        "original": "스타벅스"
+    },
+    {
+        "transformed": "쏘삼",
+        "original": "소주와 삼겹살"
+    },
+    {
+        "transformed": "아아",
+        "original": "아이스 아메리카노"
+    },
+    {
+        "transformed": "야곱",
+        "original": "야채 곱창"
+    },
+    {
+        "transformed": "얼죽아",
+        "original": "얼어 죽어도 아이스 아메리카노"
+    },
+    {
+        "transformed": "역할맥",
+        "original": "역전할머니맥주"
+    },
+    {
+        "transformed": "엽떡",
+        "original": "엽기 떡볶이"
+    },
+    {
+        "transformed": "오떡순",
+        "original": "오뎅 떡볶이 순대"
+    },
+    {
+        "transformed": "오불",
+        "original": "오징어 불고기"
+    },
+    {
+        "transformed": "옥메와까",
+        "original": "옥동자, 메가톤바, 와일드 바디, 까마쿤"
+    },
+    {
+        "transformed": "요잘알",
+        "original": "요리 잘 아는 사람"
+    },
+    {
+        "transformed": "저메추",
+        "original": "저녁 메뉴 추천"
+    },
+    {
+        "transformed": "점메추",
+        "original": "점심 메뉴 추천"
+    },
+    {
+        "transformed": "중당",
+        "original": "중국 당면"
+    },
+    {
+        "transformed": "진매",
+        "original": "진라면 매운맛"
+    },
+    {
+        "transformed": "짬짜면",
+        "original": "짬뽕 짜장면 반반메뉴"
+    },
+    {
+        "transformed": "쭈삼",
+        "original": "쭈꾸미 삼겹살"
+    },
+    {
+        "transformed": "찍먹",
+        "original": "탕수육을 소스에 찍어먹는 것"
+    },
+    {
+        "transformed": "치밥",
+        "original": "치킨과 밥"
+    },
+    {
+        "transformed": "칼제비",
+        "original": "칼국수 수제비"
+    },
+    {
+        "transformed": "콩불",
+        "original": "콩나물 불고기"
+    },
+    {
+        "transformed": "쿠바쉐",
+        "original": "쿠키 바닐라 쉐이크"
+    },
+    {
+        "transformed": "뚜쥬",
+        "original": "뚜레쥬르"
+    },
+    {
+        "transformed": "편도",
+        "original": "편의점 도시락"
+    },
+    {
+        "transformed": "평냉",
+        "original": "평양냉면"
+    },
+    {
+        "transformed": "포차",
+        "original": "포장마차"
+    },
+    {
+        "transformed": "피나치공",
+        "original": "피자나라 치킨공주"
+    },
+    {
+        "transformed": "피맥",
+        "original": "피자와 맥주"
+    },
+    {
+        "transformed": "함냉",
+        "original": "함흥냉면"
+    },
+    {
+        "transformed": "회냉",
+        "original": "회냉면"
+    },
+    {
+        "transformed": "따아",
+        "original": "따뜻한 아메리카노"
+    },
+    {
+        "transformed": "맵단",
+        "original": "맵고 단 것"
+    },
+    {
+        "transformed": "버오구",
+        "original": "버터오징어구이"
+    },
+    {
+        "transformed": "상스치콤",
+        "original": "상하이 스파이시 치킨버거 콤보"
+    },
+    {
+        "transformed": "아바라",
+        "original": "아이스 바닐라 라떼"
+    },
+    {
+        "transformed": "오추메",
+        "original": "오늘의 추천 메뉴"
+    },
+    {
+        "transformed": "짜파구리",
+        "original": "짜파게티와 너구리를 섞어 끓인 것 | 짜파게티와 너구리"
+    },
+    {
+        "transformed": "치맥",
+        "original": "치킨과 맥주"
+    },
+    {
+        "transformed": "편맥",
+        "original": "편의점 맥주"
+    },
+    {
+        "transformed": "혼술",
+        "original": "혼자 술 마시기"
+    },
+    {
+        "transformed": "돌밥돌밥",
+        "original": "돌아서면 밥하고 돌아서면 밥하고"
+    },
+    {
+        "transformed": "맥날",
+        "original": "맥도날드"
+    },
+    {
+        "transformed": "배민",
+        "original": "배달의 민족"
+    },
+    {
+        "transformed": "삼김",
+        "original": "삼각김밥"
+    },
+    {
+        "transformed": "쏘야",
+        "original": "소시지 야채 볶음"
+    },
+    {
+        "transformed": "오저치고",
+        "original": "오늘 저녁 치킨 고"
+    },
+    {
+        "transformed": "진순",
+        "original": "진라면 순한맛"
+    },
+    {
+        "transformed": "치떡",
+        "original": "치킨과 떡볶이 세트"
+    },
+    {
+        "transformed": "혼밥",
+        "original": "혼자 밥 먹기"
+    },
+    {
+        "transformed": "각집",
+        "original": "각자 집에 가다"
+    },
+    {
+        "transformed": "갑분싸",
+        "original": "갑자기 분위기 싸해지다"
+    },
+    {
+        "transformed": "갑툭튀",
+        "original": "갑자기 툭 튀어나오다"
+    },
+    {
+        "transformed": "강추",
+        "original": "강력추천"
+    },
+    {
+        "transformed": "개취",
+        "original": "개인적인 취향"
+    },
+    {
+        "transformed": "갠적",
+        "original": "개인적인"
+    },
+    {
+        "transformed": "걍",
+        "original": "그냥"
+    },
+    {
+        "transformed": "걍고",
+        "original": "그냥 하자"
+    },
+    {
+        "transformed": "겨털",
+        "original": "겨드랑이 털"
+    },
+    {
+        "transformed": "격공",
+        "original": "격하게 공감한다"
+    },
+    {
+        "transformed": "고택",
+        "original": "고속버스 택배"
+    },
+    {
+        "transformed": "고터",
+        "original": "고속 터미널"
+    },
+    {
+        "transformed": "골잘알",
+        "original": "골프 잘 아는 사람"
+    },
+    {
+        "transformed": "공구",
+        "original": "공동 구매"
+    },
+    {
+        "transformed": "근자감",
+        "original": "근거없는 자신감"
+    },
+    {
+        "transformed": "급찐살",
+        "original": "급하게 찐 살"
+    },
+    {
+        "transformed": "급찐급빠",
+        "original": "급하게 찐 살 급하게 뺀다"
+    },
+    {
+        "transformed": "김현아",
+        "original": "김포 현대 아울렛"
+    },
+    {
+        "transformed": "까방권",
+        "original": "까임방지권"
+    },
+    {
+        "transformed": "꼽다",
+        "original": "아니꼽다"
+    },
+    {
+        "transformed": "꿀벅지",
+        "original": "탄력있는 허벅지"
+    },
+    {
+        "transformed": "낄끼빠빠",
+        "original": "낄 때 끼고 빠질 때 빠져라"
+    },
+    {
+        "transformed": "나심비",
+        "original": "나의 심리에 따라 소비하는 비용 "
+    },
+    {
+        "transformed": "날먹",
+        "original": "날로 먹는다"
+    },
+    {
+        "transformed": "내로남불",
+        "original": "내가 하면 로맨스 남이 하면 불륜"
+    },
+    {
+        "transformed": "내말그말",
+        "original": "내 말이 그 말이야"
+    },
+    {
+        "transformed": "넘",
+        "original": "너무"
+    },
+    {
+        "transformed": "넘나",
+        "original": "너무나"
+    },
+    {
+        "transformed": "넘사벽",
+        "original": "넘을 수 없는 사차원의 벽"
+    },
+    {
+        "transformed": "노답",
+        "original": "답이 없다"
+    },
+    {
+        "transformed": "다꾸",
+        "original": "다이어리 꾸미기"
+    },
+    {
+        "transformed": "담번에",
+        "original": "다음번에"
+    },
+    {
+        "transformed": "담타",
+        "original": "담배 피우러 가는 타임"
+    },
+    {
+        "transformed": "답정너",
+        "original": "답은 정해져 있고 너는 대답만 하면 돼"
+    },
+    {
+        "transformed": "대유잼",
+        "original": "크게 재미가 있다"
+    },
+    {
+        "transformed": "똥컴",
+        "original": "똥 컴퓨터"
+    },
+    {
+        "transformed": "뚜따",
+        "original": "자동차 뚜껑을 따다"
+    },
+    {
+        "transformed": "띠부띠부씰",
+        "original": "띠고 부치고 띠고 부치는 씰"
+    },
+    {
+        "transformed": "레제",
+        "original": "레이저 제모"
+    },
+    {
+        "transformed": "마기꾼",
+        "original": "마스크 사기꾼"
+    },
+    {
+        "transformed": "마돈나",
+        "original": "마시고 돈 내고 나가자"
+    },
+    {
+        "transformed": "마상",
+        "original": "마음의 상처"
+    },
+    {
+        "transformed": "만잘부",
+        "original": "만나서 잘 부탁해"
+    },
+    {
+        "transformed": "만반잘부",
+        "original": "만나서 반가워 잘 부탁해"
+    },
+    {
+        "transformed": "많관부",
+        "original": "많은 관심 부탁드립니다"
+    },
+    {
+        "transformed": "말넘심",
+        "original": "말 너무 심하게 한다"
+    },
+    {
+        "transformed": "말또서",
+        "original": "말 또 서운하게 한다"
+    },
+    {
+        "transformed": "말뭐",
+        "original": "말해 뭐해"
+    },
+    {
+        "transformed": "말벅지",
+        "original": "말처럼 튼튼하고 근육질인 허벅지"
+    },
+    {
+        "transformed": "맞담",
+        "original": "마주보고 담배피기"
+    },
+    {
+        "transformed": "묭실",
+        "original": "미용실"
+    },
+    {
+        "transformed": "무물보",
+        "original": "무엇이든 물어보세요"
+    },
+    {
+        "transformed": "문상",
+        "original": "문화상품권"
+    },
+    {
+        "transformed": "문센",
+        "original": "문화센터"
+    },
+    {
+        "transformed": "물멍",
+        "original": "물을 보며 멍하니 있는 것"
+    },
+    {
+        "transformed": "미드",
+        "original": "미국 드라마"
+    },
+    {
+        "transformed": "미먼",
+        "original": "미세 먼지"
+    },
+    {
+        "transformed": "민증",
+        "original": "주민등록증"
+    },
+    {
+        "transformed": "배대지",
+        "original": "배송대행지"
+    },
+    {
+        "transformed": "버정",
+        "original": "버스 정류장"
+    },
+    {
+        "transformed": "버카충",
+        "original": "버스 카드 충전"
+    },
+    {
+        "transformed": "벨튀",
+        "original": "벨을 누르고 튀는 짓"
+    },
+    {
+        "transformed": "별다줄",
+        "original": "별 걸 다 줄인다"
+    },
+    {
+        "transformed": "보빼",
+        "original": "보조 배터리"
+    },
+    {
+        "transformed": "복세편살",
+        "original": "복잡한 세상 편하게 살자"
+    },
+    {
+        "transformed": "분조장",
+        "original": "분노조절장애"
+    },
+    {
+        "transformed": "불금",
+        "original": "불타는 금요일"
+    },
+    {
+        "transformed": "불멍",
+        "original": "불을 보고 멍하니 있는 것"
+    },
+    {
+        "transformed": "빠바",
+        "original": "파리바게트"
+    },
+    {
+        "transformed": "빠태",
+        "original": "빠른 태세전환"
+    },
+    {
+        "transformed": "사바사",
+        "original": "사람 바이 사람"
+    },
+    {
+        "transformed": "삼대남",
+        "original": "삼십대 남자"
+    },
+    {
+        "transformed": "새고",
+        "original": "새로고침"
+    },
+    {
+        "transformed": "새피",
+        "original": "새벽에 가는 피시방"
+    },
+    {
+        "transformed": "생선",
+        "original": "생일선물"
+    },
+    {
+        "transformed": "생파",
+        "original": "생일 파티"
+    },
+    {
+        "transformed": "성괴",
+        "original": "성형 괴물"
+    },
+    {
+        "transformed": "소확행",
+        "original": "소소하지만 확실한 행복"
+    },
+    {
+        "transformed": "솔까말",
+        "original": "솔직히 까놓고 말해서"
+    },
+    {
+        "transformed": "숲멍",
+        "original": "숲을 보고 멍하니 있는다"
+    },
+    {
+        "transformed": "시망",
+        "original": "시원하게 망하다"
+    },
+    {
+        "transformed": "시빼테",
+        "original": "시럽 빼고 테이크아웃"
+    },
+    {
+        "transformed": "시피",
+        "original": "시내 피시방"
+    },
+    {
+        "transformed": "신시아",
+        "original": "신세계 시흥 아울렛"
+    },
+    {
+        "transformed": "싸패",
+        "original": "싸이코패스"
+    },
+    {
+        "transformed": "쌍수",
+        "original": "쌍커풀수술"
+    },
+    {
+        "transformed": "쌍액",
+        "original": "쌍커풀액"
+    },
+    {
+        "transformed": "쌍테",
+        "original": "쌍커풀 테이프"
+    },
+    {
+        "transformed": "아나바다",
+        "original": "아껴쓰고 나눠쓰고 바꿔쓰고 다시 쓰자"
+    },
+    {
+        "transformed": "아더메치",
+        "original": "아니꼽고 더럽고 메스껍고 치사한"
+    },
+    {
+        "transformed": "안습",
+        "original": "안구의 습기차다"
+    },
+    {
+        "transformed": "알쓰",
+        "original": "알코올 쓰레기"
+    },
+    {
+        "transformed": "어사",
+        "original": "어색한 사이"
+    },
+    {
+        "transformed": "어쩔",
+        "original": "어쩌라고"
+    },
+    {
+        "transformed": "어케",
+        "original": "어떻게"
+    },
+    {
+        "transformed": "얼죽코",
+        "original": "얼어 죽어도 코트"
+    },
+    {
+        "transformed": "엄근진",
+        "original": "엄격 근엄 진지"
+    },
+    {
+        "transformed": "엘베",
+        "original": "엘리베이터"
+    },
+    {
+        "transformed": "열일",
+        "original": "열심히 일하다"
+    },
+    {
+        "transformed": "열활",
+        "original": "열심히 활동하다"
+    },
+    {
+        "transformed": "영고",
+        "original": "영원히 고통받는다"
+    },
+    {
+        "transformed": "영끌",
+        "original": "영혼까지 끌어모으다"
+    },
+    {
+        "transformed": "영드",
+        "original": "영국 드라마"
+    },
+    {
+        "transformed": "오노방",
+        "original": "오락실에 딸린 작은 노래방"
+    },
+    {
+        "transformed": "오래방",
+        "original": "오락실에 딸린 작은 노래방"
+    },
+    {
+        "transformed": "오잘공",
+        "original": "오늘 가장 잘 친 공"
+    },
+    {
+        "transformed": "오키",
+        "original": "오케이"
+    },
+    {
+        "transformed": "옥떨메",
+        "original": "옥상에서 떨어진 메주"
+    },
+    {
+        "transformed": "올공",
+        "original": "올림픽 공원"
+    },
+    {
+        "transformed": "웃프다",
+        "original": "웃기면서 슬프다"
+    },
+    {
+        "transformed": "월요팅",
+        "original": "월요일 화이팅"
+    },
+    {
+        "transformed": "월클",
+        "original": "월드클라스"
+    },
+    {
+        "transformed": "유리멘탈",
+        "original": "유리처럼 깨지기 쉬운 멘탈"
+    },
+    {
+        "transformed": "이대남",
+        "original": "20대 남자"
+    },
+    {
+        "transformed": "입꾹닫",
+        "original": "입을 꾹 닫는다"
+    },
+    {
+        "transformed": "입벌구",
+        "original": "입만 벌리면 구라"
+    },
+    {
+        "transformed": "잇님",
+        "original": "이웃님"
+    },
+    {
+        "transformed": "자낳괴",
+        "original": "자본주의가 낳은 괴물"
+    },
+    {
+        "transformed": "쟈철",
+        "original": "지하철"
+    },
+    {
+        "transformed": "저쩔",
+        "original": "저쩌라고"
+    },
+    {
+        "transformed": "저탄고지",
+        "original": "저탄수화물 고지방"
+    },
+    {
+        "transformed": "전담",
+        "original": "전자 담배"
+    },
+    {
+        "transformed": "전차스",
+        "original": "전자파 차단 스티커"
+    },
+    {
+        "transformed": "조폭",
+        "original": "조직폭력배"
+    },
+    {
+        "transformed": "주불",
+        "original": "주소 불러"
+    },
+    {
+        "transformed": "주장미",
+        "original": "주요장면 미리보기"
+    },
+    {
+        "transformed": "지라시",
+        "original": "지금은 라디오 시대"
+    },
+    {
+        "transformed": "짱난다",
+        "original": "짜증난다"
+    },
+    {
+        "transformed": "쪄죽따",
+        "original": "쪄 죽어도 따뜻한 커피"
+    },
+    {
+        "transformed": "찐찌버거",
+        "original": "찐따 찌질이 버거워"
+    },
+    {
+        "transformed": "차애",
+        "original": "차선으로 애정"
+    },
+    {
+        "transformed": "찰벅지",
+        "original": "찰진 허벅지"
+    },
+    {
+        "transformed": "첨",
+        "original": "처음"
+    },
+    {
+        "transformed": "충공깽",
+        "original": "충격과 공포다 그지 깽깽이들아"
+    },
+    {
+        "transformed": "취존",
+        "original": "취향 존중"
+    },
+    {
+        "transformed": "칠포세대",
+        "original": "7가지를 포기한 세대"
+    },
+    {
+        "transformed": "케바케",
+        "original": "케이스 바이 케이스"
+    },
+    {
+        "transformed": "코시국",
+        "original": "코로나 시국"
+    },
+    {
+        "transformed": "토욜",
+        "original": "토요일"
+    },
+    {
+        "transformed": "파파미",
+        "original": "파도 파도 미담"
+    },
+    {
+        "transformed": "패마",
+        "original": "패밀리마트"
+    },
+    {
+        "transformed": "패완얼",
+        "original": "패션의 완성은 얼굴"
+    },
+    {
+        "transformed": "패잘알",
+        "original": "패션 잘 아는 사람"
+    },
+    {
+        "transformed": "폭망",
+        "original": "폭삭 망하다"
+    },
+    {
+        "transformed": "피꺼솟",
+        "original": "피가 거꾸로 솟는다"
+    },
+    {
+        "transformed": "필카",
+        "original": "필름 카메라"
+    },
+    {
+        "transformed": "필테",
+        "original": "필라테스"
+    },
+    {
+        "transformed": "핑프",
+        "original": "핑거 프린세스 | 핑거 프린스"
+    },
+    {
+        "transformed": "하같색",
+        "original": "하늘 아래 같은 색은 없다"
+    },
+    {
+        "transformed": "함",
+        "original": "한 번"
+    },
+    {
+        "transformed": "해당화",
+        "original": "해가 갈수록 당당하고 화려하게"
+    },
+    {
+        "transformed": "핵궁금",
+        "original": "매우 궁금하다"
+    },
+    {
+        "transformed": "핵노답",
+        "original": "매우 답이 없다"
+    },
+    {
+        "transformed": "헤완얼",
+        "original": "헤어의 완성은 얼굴"
+    },
+    {
+        "transformed": "헬잘알",
+        "original": "헬스 잘 아는 사람"
+    },
+    {
+        "transformed": "현시창",
+        "original": "현실은 시궁창"
+    },
+    {
+        "transformed": "혼놀",
+        "original": "혼자 놀기"
+    },
+    {
+        "transformed": "혼여",
+        "original": "혼자 여행"
+    },
+    {
+        "transformed": "횐님",
+        "original": "회원님"
+    },
+    {
+        "transformed": "힙잘알",
+        "original": "힙합 잘 아는 사람"
+    },
+    {
+        "transformed": "고답이",
+        "original": "고구마 답답이"
+    },
+    {
+        "transformed": "극혐",
+        "original": "극도로 혐오"
+    },
+    {
+        "transformed": "깜놀",
+        "original": "깜짝 놀라다"
+    },
+    {
+        "transformed": "낄껴",
+        "original": "낄 때 껴"
+    },
+    {
+        "transformed": "놀토",
+        "original": "노는 토요일"
+    },
+    {
+        "transformed": "단무지",
+        "original": "단순 무식 지랄"
+    },
+    {
+        "transformed": "디카",
+        "original": "디지털 카메라"
+    },
+    {
+        "transformed": "뜨아",
+        "original": "뜨거운 아메리카노"
+    },
+    {
+        "transformed": "롯슈",
+        "original": "롯데슈퍼"
+    },
+    {
+        "transformed": "맘",
+        "original": "마음"
+    },
+    {
+        "transformed": "멘붕",
+        "original": "멘탈 붕괴"
+    },
+    {
+        "transformed": "반삭",
+        "original": "반만 삭발"
+    },
+    {
+        "transformed": "병지컷",
+        "original": "김병지 커트"
+    },
+    {
+        "transformed": "비번",
+        "original": "비밀번호"
+    },
+    {
+        "transformed": "뽀샵",
+        "original": "포토샵"
+    },
+    {
+        "transformed": "선타투후뚜맞",
+        "original": "선 타투 후에 뚜드려 맞자"
+    },
+    {
+        "transformed": "수부지",
+        "original": "수분 부족 지성"
+    },
+    {
+        "transformed": "용케",
+        "original": "용하게"
+    },
+    {
+        "transformed": "유잼",
+        "original": "재미있다"
+    },
+    {
+        "transformed": "음쓰봉",
+        "original": "음식물 쓰레기 봉투"
+    },
+    {
+        "transformed": "장미단추",
+        "original": "장거리에서 보면 미남미녀인데 단거리에서 보면 추남추녀"
+    },
+    {
+        "transformed": "절친",
+        "original": "절친한 친구"
+    },
+    {
+        "transformed": "주부애",
+        "original": "주먹을 부르는 애교"
+    },
+    {
+        "transformed": "짧치",
+        "original": "짧은 치마"
+    },
+    {
+        "transformed": "차린이",
+        "original": "자동차 어린이"
+    },
+    {
+        "transformed": "차박튀",
+        "original": "차를 박고 튀다"
+    },
+    {
+        "transformed": "최애",
+        "original": "최고로 애정하는 사람"
+    },
+    {
+        "transformed": "축잘알",
+        "original": "축구 잘 아는 사람"
+    },
+    {
+        "transformed": "코노",
+        "original": "코인 노래방"
+    },
+    {
+        "transformed": "트젠",
+        "original": "트랜스젠더"
+    },
+    {
+        "transformed": "풀멍",
+        "original": "풀 보면서 멍때리기"
+    },
+    {
+        "transformed": "혼영",
+        "original": "혼자 영화"
+    },
+    {
+        "transformed": "게하",
+        "original": "게스트하우스"
+    },
+    {
+        "transformed": "의대생",
+        "original": "의과대학 학생"
+    },
+    {
+        "transformed": "마용성",
+        "original": "마포구 용산구 성동구"
+    },
+    {
+        "transformed": "부잘알",
+        "original": "부동산 잘 아는 사람"
+    },
+    {
+        "transformed": "생숙",
+        "original": "생활형 숙박시설"
+    },
+    {
+        "transformed": "식세기",
+        "original": "식기 세척기"
+    },
+    {
+        "transformed": "일임사",
+        "original": "일반 임대 사업자"
+    },
+    {
+        "transformed": "주복",
+        "original": "주상 복합 아파트"
+    },
+    {
+        "transformed": "주임사",
+        "original": "주택 임대 사업자"
+    },
+    {
+        "transformed": "초코아",
+        "original": "초등학교가 코 앞에 있는 아파트"
+    },
+    {
+        "transformed": "하메",
+        "original": "하우스메이트"
+    },
+    {
+        "transformed": "도생",
+        "original": "도시형 생활 주택"
+    },
+    {
+        "transformed": "모하",
+        "original": "모델하우스"
+    },
+    {
+        "transformed": "이생집망",
+        "original": "이번 생에는 집사기는 망했다"
+    },
+    {
+        "transformed": "지산",
+        "original": "지식형 산업 센터"
+    },
+    {
+        "transformed": "내또출",
+        "original": "내일 또 출근"
+    },
+    {
+        "transformed": "돌취생",
+        "original": "돌아온 취업준비생"
+    },
+    {
+        "transformed": "면까몰",
+        "original": "면접은 까볼 때까지 모른다"
+    },
+    {
+        "transformed": "명퇴",
+        "original": "명예퇴직"
+    },
+    {
+        "transformed": "뭐하회",
+        "original": "뭐라도 하겠지 회사인데"
+    },
+    {
+        "transformed": "사오정",
+        "original": "45세가 정년"
+    },
+    {
+        "transformed": "삼태백",
+        "original": "삼십 대 태반이 백수"
+    },
+    {
+        "transformed": "십장생",
+        "original": "십대들도 장차 무직자가 될 것을 생각하자"
+    },
+    {
+        "transformed": "알바",
+        "original": "아르바이트"
+    },
+    {
+        "transformed": "이구백",
+        "original": "이십대 90%가 백수"
+    },
+    {
+        "transformed": "이태백",
+        "original": "이십 대 태반이 백수"
+    },
+    {
+        "transformed": "이퇴백",
+        "original": "이십 대에 퇴직한 백수"
+    },
+    {
+        "transformed": "일취월장",
+        "original": "일요일에 취하면 월요일에 장난 아니야"
+    },
+    {
+        "transformed": "자소서",
+        "original": "자기소개서"
+    },
+    {
+        "transformed": "청백전",
+        "original": "청년 백수 전성시대"
+    },
+    {
+        "transformed": "취가",
+        "original": "취업 대신 장가"
+    },
+    {
+        "transformed": "취준생",
+        "original": "취업 준비생"
+    },
+    {
+        "transformed": "퇴준생",
+        "original": "퇴사 준비생"
+    },
+    {
+        "transformed": "월루",
+        "original": "월급루팡"
+    },
+    {
+        "transformed": "취집",
+        "original": "취업 대신 시집"
+    },
+    {
+        "transformed": "칼퇴",
+        "original": "칼같이 퇴근"
+    },
+    {
+        "transformed": "근왜주",
+        "original": "근데 왜 주작"
+    },
+    {
+        "transformed": "겜알못",
+        "original": "게임을 잘 알지 못하는 사람"
+    },
+    {
+        "transformed": "내팀내",
+        "original": "내려갈 팀은 내려간다"
+    },
+    {
+        "transformed": "냉무",
+        "original": "내용이 없다"
+    },
+    {
+        "transformed": "넌씨눈",
+        "original": "넌 씨발 눈치도 없냐"
+    },
+    {
+        "transformed": "다태호",
+        "original": "다시 태어나면 호날두"
+    },
+    {
+        "transformed": "안될안",
+        "original": "안 될 사람은 안 된다"
+    },
+    {
+        "transformed": "덕코",
+        "original": "덕후 코스프레"
+    },
+    {
+        "transformed": "듣보잡",
+        "original": "듣도 보도 못한 잡것"
+    },
+    {
+        "transformed": "생축",
+        "original": "생일 축하"
+    },
+    {
+        "transformed": "수능",
+        "original": "대학수학능력시험"
+    },
+    {
+        "transformed": "안물",
+        "original": "안 물어봤다"
+    },
+    {
+        "transformed": "안궁",
+        "original": "안 궁금하다"
+    },
+    {
+        "transformed": "엄진근",
+        "original": "엄격,진지,근엄"
+    },
+    {
+        "transformed": "어깡",
+        "original": "어깨 깡패"
+    },
+    {
+        "transformed": "어좁이",
+        "original": "어깨가 좁은 이"
+    },
+    {
+        "transformed": "이토뭐",
+        "original": "이번주 토요일에 뭐해?"
+    },
+    {
+        "transformed": "인방",
+        "original": "인터넷 방송"
+    },
+    {
+        "transformed": "피거솟",
+        "original": "피가 거꾸로 솟는다"
+    },
+    {
+        "transformed": "한능검",
+        "original": "한국사능력검정시험"
+    },
+    {
+        "transformed": "행쇼",
+        "original": "행복하십시오"
+    },
+    {
+        "transformed": "훈남",
+        "original": "훈훈하게 생긴 남자"
+    },
+    {
+        "transformed": "좀무",
+        "original": "좀 무섭군요"
+    },
+    {
+        "transformed": "할말하않",
+        "original": "할말은 많지만 하지 않겠다"
+    },
+    {
+        "transformed": "믿거",
+        "original": "믿고 거르는"
+    },
+    {
+        "transformed": "인조새",
+        "original": "인생 조진 새끼"
+    },
+    {
+        "transformed": "복복낳",
+        "original": "복수는 복수를 낳는다"
+    },
+    {
+        "transformed": "갤",
+        "original": "개월"
+    },
+    {
+        "transformed": "삼실",
+        "original": "사무실"
+    },
+    {
+        "transformed": "쓰봉",
+        "original": "쓰레기 봉투"
+    },
+    {
+        "transformed": "음쓰",
+        "original": "음식물 쓰레기"
+    },
+    {
+        "transformed": "초품아",
+        "original": "초등학교를 품은 아파트"
+    },
+    {
+        "transformed": "청바지",
+        "original": "청춘은 바로 지금"
+    },
+    {
+        "transformed": "아우디",
+        "original": "아줌마의 우정은 디질때까지"
+    },
+    {
+        "transformed": "올영",
+        "original": "올리브영"
+    },
+    {
+        "transformed": "투썸",
+        "original": "투썸플레이스"
+    },
+    {
+        "transformed": "카톡",
+        "original": "카카오톡"
+    },
+    {
+        "transformed": "폰꾸",
+        "original": "폰 꾸미기"
+    },
+    {
+        "transformed": "블꾸",
+        "original": "블로그 꾸미기"
+    },
+    {
+        "transformed": "국영수",
+        "original": "국어, 영어, 수학"
+    },
+    {
+        "transformed": "혼공",
+        "original": "혼자 공부하기"
+    },
+    {
+        "transformed": "혼카페",
+        "original": "혼자 카페가기"
+    },
+    {
+        "transformed": "카공",
+        "original": "카페에서 공부하기"
+    },
+    {
+        "transformed": "현생",
+        "original": "현재 인생"
+    },
+    {
+        "transformed": "화잘먹",
+        "original": "화장 잘 먹었다"
+    },
+    {
+        "transformed": "기가",
+        "original": "기술가정"
+    },
+    {
+        "transformed": "통사",
+        "original": "통합사회"
+    },
+    {
+        "transformed": "통과",
+        "original": "통합과학"
+    },
+    {
+        "transformed": "과탐실",
+        "original": "과학탐구실험"
+    },
+    {
+        "transformed": "언매",
+        "original": "언어와 매체"
+    },
+    {
+        "transformed": "화작",
+        "original": "화법과 작문"
+    },
+    {
+        "transformed": "미적",
+        "original": "미적분"
+    },
+    {
+        "transformed": "확통",
+        "original": "확률과 통계"
+    },
+    {
+        "transformed": "기벡",
+        "original": "기하와 벡터"
+    },
+    {
+        "transformed": "물화생지",
+        "original": "물리, 화학, 생명과학, 지구과학"
+    },
+    {
+        "transformed": "한지",
+        "original": "한국지리"
+    },
+    {
+        "transformed": "세지",
+        "original": "세계지리"
+    },
+    {
+        "transformed": "사문",
+        "original": "사회문화"
+    },
+    {
+        "transformed": "윤사",
+        "original": "윤리와사상"
+    },
+    {
+        "transformed": "생윤",
+        "original": "생활과윤리"
+    },
+    {
+        "transformed": "동사",
+        "original": "동아시아사"
+    },
+    {
+        "transformed": "실관",
+        "original": "실험 관찰"
+    },
+    {
+        "transformed": "수익",
+        "original": "수학 익힘"
+    },
+    {
+        "transformed": "창체",
+        "original": "창의적 체험활동"
+    },
+    {
+        "transformed": "우맨피",
+        "original": "우리들만 맨날 피해보네요"
+    },
+    {
+        "transformed": "즐",
+        "original": "즐겁다"
+    },
+    {
+        "transformed": "쩍벌남",
+        "original": "다리를 쩍 벌린 남자"
+    },
+    {
+        "transformed": "롯리",
+        "original": "롯데리아"
+    },
+    {
+        "transformed": "네톤",
+        "original": "네이트온"
+    },
+    {
+        "transformed": "마소",
+        "original": "마이크로소프트"
+    },
+    {
+        "transformed": "삼전",
+        "original": "삼성전자"
+    },
+    {
+        "transformed": "온클",
+        "original": "온라인클래스"
+    },
+    {
+        "transformed": "카스",
+        "original": "카카오스토리"
+    },
+    {
+        "transformed": "플스",
+        "original": "플레이스테이션"
+    },
+    {
+        "transformed": "그그그",
+        "original": "그때 그 순간 그대로"
+    },
+    {
+        "transformed": "개콘",
+        "original": "개그콘서트"
+    },
+    {
+        "transformed": "나가수",
+        "original": "나는 가수다"
+    },
+    {
+        "transformed": "너목보",
+        "original": "너의 목소리가 보여"
+    },
+    {
+        "transformed": "너목들",
+        "original": "너의 목소리가 들려"
+    },
+    {
+        "transformed": "라스",
+        "original": "라디오 스타"
+    },
+    {
+        "transformed": "무도",
+        "original": "무한도전"
+    },
+    {
+        "transformed": "슈돌",
+        "original": "슈퍼맨이 돌아왔다"
+    },
+    {
+        "transformed": "웃찾사",
+        "original": "웃음을 찾는 사람들"
+    },
+    {
+        "transformed": "위탄",
+        "original": "위대한 탄생"
+    },
+    {
+        "transformed": "마리텔",
+        "original": "마이 리틀 텔레비전"
+    },
+    {
+        "transformed": "우결",
+        "original": "우리 결혼했어요"
+    },
+    {
+        "transformed": "아형",
+        "original": "아는형님"
+    },
+    {
+        "transformed": "코빅",
+        "original": "코미디 빅리그"
+    },
+    {
+        "transformed": "인가",
+        "original": "인기가요"
+    },
+    {
+        "transformed": "정법",
+        "original": "정치와 법 | 정글의 법칙"
+    },
+    {
+        "transformed": "그알",
+        "original": "그것이 알고싶다"
+    },
+    {
+        "transformed": "넷플",
+        "original": "넷플릭스"
+    },
+    {
+        "transformed": "환연",
+        "original": "환승연애"
+    },
+    {
+        "transformed": "꽃남",
+        "original": "꽃보다 남자"
+    },
+    {
+        "transformed": "공신",
+        "original": "공부의 신"
+    },
+    {
+        "transformed": "별그대",
+        "original": "별에서 온 그대"
+    },
+    {
+        "transformed": "내여구",
+        "original": "내 여자친구는 구미호"
+    },
+    {
+        "transformed": "해품달",
+        "original": "해를 품은 달"
+    },
+    {
+        "transformed": "구그달",
+        "original": "구르미 그린 달빛"
+    },
+    {
+        "transformed": "태후",
+        "original": "태양의 후예"
+    },
+    {
+        "transformed": "사불착",
+        "original": "사랑의 불시착"
+    },
+    {
+        "transformed": "펜하",
+        "original": "펜트하우스"
+    },
+    {
+        "transformed": "김왜그",
+        "original": "김비서가 왜 그럴까"
+    },
+    {
+        "transformed": "주태",
+        "original": "주군의 태양"
+    },
+    {
+        "transformed": "스캐",
+        "original": "스카이 캐슬"
+    },
+    {
+        "transformed": "코박죽",
+        "original": "코박고 죽고싶다"
+    },
+    {
+        "transformed": "일코해제",
+        "original": "일반인 코스프레 해제"
+    },
+    {
+        "transformed": "오맞말",
+        "original": "오늘은 맞는 말을 했네"
+    },
+    {
+        "transformed": "사필없",
+        "original": "사회에 필요가 없어요"
+    },
+    {
+        "transformed": "떡코",
+        "original": "떡볶이 코트"
+    },
+    {
+        "transformed": "존버",
+        "original": "존나 버티다"
+    },
+    {
+        "transformed": "혼코노",
+        "original": "혼자 코인노래방"
+    },
+    {
+        "transformed": "번달번줌",
+        "original": "번호 달라면 번호 줌"
+    },
+    {
+        "transformed": "인싸",
+        "original": "인사이더"
+    },
+    {
+        "transformed": "아싸",
+        "original": "아웃사이더"
+    },
+    {
+        "transformed": "쉼포족",
+        "original": "쉼을 포기할 정도로 바쁜 사람들"
+    },
+    {
+        "transformed": "현타",
+        "original": "현실 자각 타임"
+    },
+    {
+        "transformed": "순삭",
+        "original": "순식간에 삭제"
+    },
+    {
+        "transformed": "아샷추",
+        "original": "아이스티에 샷 추가"
+    },
+    {
+        "transformed": "아망추",
+        "original": "아이스티에 망고 추가"
+    },
+    {
+        "transformed": "핫플",
+        "original": "핫플레이스"
+    },
+    {
+        "transformed": "로판",
+        "original": "로맨스 판타지"
+    },
+    {
+        "transformed": "셀카",
+        "original": "셀프카메라"
+    },
+    {
+        "transformed": "웃짤",
+        "original": "웃긴 짤"
+    },
+    {
+        "transformed": "움짤",
+        "original": "움직이는 짤"
+    },
+    {
+        "transformed": "억까",
+        "original": "억지로 까다"
+    },
+    {
+        "transformed": "커담",
+        "original": "커피와 담배"
+    },
+    {
+        "transformed": "텅장",
+        "original": "텅 빈 통장"
+    },
+    {
+        "transformed": "현피",
+        "original": "현실에서 만나서 PvP"
+    },
+    {
+        "transformed": "본계",
+        "original": "본 계정"
+    },
+    {
+        "transformed": "부계",
+        "original": "부속으로 딸린 계정"
+    },
+    {
+        "transformed": "서서도",
+        "original": "서로서로 도와요"
+    },
+    {
+        "transformed": "억텐",
+        "original": "억지 텐션"
+    },
+    {
+        "transformed": "찐텐",
+        "original": "진짜 텐션"
+    },
+    {
+        "transformed": "어덕행덕",
+        "original": "어차피 덕질할거 행복하게 덕질하자"
+    },
+    {
+        "transformed": "익절",
+        "original": "수익보고 절교"
+    },
+    {
+        "transformed": "심쿵",
+        "original": "심장이 쿵"
+    },
+    {
+        "transformed": "갠소",
+        "original": "개인소장"
+    },
+    {
+        "transformed": "존잘",
+        "original": "존나 잘생겼다"
+    },
+    {
+        "transformed": "존예",
+        "original": "존나 예쁘다"
+    },
+    {
+        "transformed": "일생불",
+        "original": "일상생활 불가"
+    },
+    {
+        "transformed": "내또일",
+        "original": "내일 또 1교시"
+    },
+    {
+        "transformed": "현시",
+        "original": "현실은 시궁창"
+    },
+    {
+        "transformed": "강전",
+        "original": "강제 전학"
+    },
+    {
+        "transformed": "빛삭",
+        "original": "빛의 속도로 삭제"
+    },
+    {
+        "transformed": "격친",
+        "original": "격렬하게 친하다"
+    },
+    {
+        "transformed": "롯백",
+        "original": "롯데백화점"
+    },
+    {
+        "transformed": "현백",
+        "original": "현대백화점"
+    },
+    {
+        "transformed": "뚱바",
+        "original": "뚱뚱한 바나나 우유"
+    },
+    {
+        "transformed": "인뱅",
+        "original": "인터넷 뱅킹"
+    },
+    {
+        "transformed": "증사",
+        "original": "증명사진"
+    },
+    {
+        "transformed": "특공대",
+        "original": "특별히 공부 못 하는 대가리"
+    },
+    {
+        "transformed": "채금",
+        "original": "채팅금지"
+    },
+    {
+        "transformed": "느좋",
+        "original": "느낌 좋다"
+    },
+    {
+        "transformed": "박박",
+        "original": "대박대박"
+    },
+    {
+        "transformed": "중꺾마",
+        "original": "중요한 건 꺾이지 않는 마음"
+    },
+    {
+        "transformed": "분좋카",
+        "original": "분위기 좋은 카페"
+    },
+    {
+        "transformed": "새터",
+        "original": "새내기배움터"
+    },
+    {
+        "transformed": "학식",
+        "original": "학생식당"
+    },
+    {
+        "transformed": "신환회",
+        "original": "신입생 환영회"
+    },
+    {
+        "transformed": "개총",
+        "original": "개강총회"
+    },
+    {
+        "transformed": "종총",
+        "original": "종강총회"
+    },
+    {
+        "transformed": "아라",
+        "original": "아이라이너"
+    },
+    {
+        "transformed": "파데",
+        "original": "파운데이션"
+    },
+    {
+        "transformed": "갤탭",
+        "original": "갤럭시 탭"
+    },
+    {
+        "transformed": "톡디",
+        "original": "카카오톡 아이디 | 톡 아이디"
+    },
+    {
+        "transformed": "비공",
+        "original": "비공개"
+    },
+    {
+        "transformed": "요아정",
+        "original": "요거트 아이스크림의 정석"
+    },
+    {
+        "transformed": "갑통알",
+        "original": "갑자기 통장이 비어서 알바해야겠다"
+    },
+    {
+        "transformed": "치케",
+        "original": "치즈케이크"
+    },
+    {
+        "transformed": "쿠앤크",
+        "original": "쿠키 앤 크림"
+    },
+    {
+        "transformed": "엄외",
+        "original": "엄마는 외계인"
+    },
+    {
+        "transformed": "팩폭",
+        "original": "팩트 폭행"
+    },
+    {
+        "transformed": "즐데",
+        "original": "즐거운 데이트"
+    },
+    {
+        "transformed": "더데",
+        "original": "더블 데이트"
+    },
+    {
+        "transformed": "짬바",
+        "original": "짬에서 나오는 바이브"
+    },
+    {
+        "transformed": "카택",
+        "original": "카카오택시"
+    },
+    {
+        "transformed": "카뱅",
+        "original": "카카오뱅크"
+    },
+    {
+        "transformed": "카페",
+        "original": "카카오페이"
+    },
+    {
+        "transformed": "네웹",
+        "original": "네이버웹툰"
+    },
+    {
+        "transformed": "카카페",
+        "original": "카카오페이지"
+    },
+    {
+        "transformed": "코디",
+        "original": "코디네이터"
+    },
+    {
+        "transformed": "헤메",
+        "original": "헤어 메이크업"
+    },
+    {
+        "transformed": "노딱",
+        "original": "노란 딱지"
+    },
+    {
+        "transformed": "모마",
+        "original": "모두의 마블"
+    },
+    {
+        "transformed": "크아",
+        "original": "크레이지 아케이드"
+    },
+    {
+        "transformed": "테런",
+        "original": "테일즈런너"
+    },
+    {
+        "transformed": "웹드",
+        "original": "웹드라마"
+    },
+    {
+        "transformed": "디플",
+        "original": "디즈니플러스"
+    },
+    {
+        "transformed": "퍼컬",
+        "original": "퍼스널컬러"
+    },
+    {
+        "transformed": "데탑",
+        "original": "데스크탑"
+    },
+    {
+        "transformed": "후집",
+        "original": "후드집업"
+    },
+    {
+        "transformed": "존맛",
+        "original": "존나 맛있다"
+    },
+    {
+        "transformed": "육비",
+        "original": "육회비빔밥"
+    },
+    {
+        "transformed": "과잠",
+        "original": "과 잠바"
+    },
+    {
+        "transformed": "솔플",
+        "original": "솔로 플레이"
+    },
+    {
+        "transformed": "팀플",
+        "original": "팀 플레이"
+    },
+    {
+        "transformed": "오두비",
+        "original": "오이 두부 비빔밥"
+    },
+    {
+        "transformed": "대병",
+        "original": "대학병원"
+    },
+    {
+        "transformed": "미자",
+        "original": "미성년자"
+    },
+    {
+        "transformed": "넣입",
+        "original": "넣어 입다"
+    },
+    {
+        "transformed": "빼입",
+        "original": "빼서 입다"
+    },
+    {
+        "transformed": "고닉",
+        "original": "고정 닉네임"
+    },
+    {
+        "transformed": "갤주",
+        "original": "갤러리 주인"
+    },
+    {
+        "transformed": "개추",
+        "original": "개념글 추천"
+    },
+    {
+        "transformed": "셀털",
+        "original": "셀프 신상털이"
+    },
+    {
+        "transformed": "언금",
+        "original": "언급 금지"
+    },
+    {
+        "transformed": "눈새",
+        "original": "눈치없는 새끼"
+    },
+    {
+        "transformed": "스카",
+        "original": "스터디카페"
+    },
+    {
+        "transformed": "내봬누",
+        "original": "내일 봬요 누나"
+    },
+    {
+        "transformed": "캘박",
+        "original": "캘린더에 박제"
+    },
+    {
+        "transformed": "맑눈광",
+        "original": "맑은 눈의 광인"
+    },
+    {
+        "transformed": "플마",
+        "original": "플러스 마이너스"
+    },
+    {
+        "transformed": "오수완",
+        "original": "오늘 수영 완료"
+    },
+    {
+        "transformed": "행집욕부",
+        "original": "행복에 집중하기 욕심 부리지 말기"
+    },
+    {
+        "transformed": "짜않투않",
+        "original": "짜증내지 않기 투정부리지 않기"
+    },
+    {
+        "transformed": "부생긍말",
+        "original": "부정적인 생각 금지 긍정적으로 말하기"
+    },
+    {
+        "transformed": "하해안어",
+        "original": "하기 싫어도 해야지 안 하면 어쩔거야"
+    },
+    {
+        "transformed": "성덕",
+        "original": "성공한 덕후"
+    },
+    {
+        "transformed": "사녹",
+        "original": "사전녹화"
+    },
+    {
+        "transformed": "뮤배",
+        "original": "뮤지컬 배우"
+    },
+    {
+        "transformed": "웃안웃",
+        "original": "웃긴데 안 웃겨"
+    },
+    {
+        "transformed": "비활",
+        "original": "비활성화"
+    },
+    {
+        "transformed": "잼얘",
+        "original": "재미있는 얘기"
+    },
+    {
+        "transformed": "정병",
+        "original": "정신병"
+    },
+    {
+        "transformed": "꾸자사모",
+        "original": "꾸준히 자산을 사서 모으자"
+    },
+    {
+        "transformed": "너뭐돼",
+        "original": "너 뭐라도 돼"
+    },
+    {
+        "transformed": "돈쭐",
+        "original": "돈으로 혼쭐내다"
+    },
+    {
+        "transformed": "소확횡",
+        "original": "소소하고 확실한 횡령"
+    },
+    {
+        "transformed": "스라밸",
+        "original": "스터디 라이프 밸런스"
+    },
+    {
+        "transformed": "워라밸",
+        "original": "워크 라이프 밸런스"
+    },
+    {
+        "transformed": "예카",
+        "original": "예쁜 카페"
+    },
+    {
+        "transformed": "감카",
+        "original": "감성 카페"
+    },
+    {
+        "transformed": "법카",
+        "original": "법인 카드"
+    },
+    {
+        "transformed": "인급동",
+        "original": "인기 급상승 동영상"
+    },
+    {
+        "transformed": "오다망",
+        "original": "오늘 다이어트 망했다"
+    },
+    {
+        "transformed": "트민남",
+        "original": "트렌드에 민감한 남자"
+    },
+    {
+        "transformed": "트민녀",
+        "original": "트렌드에 민감한 여자"
+    },
+    {
+        "transformed": "국현미",
+        "original": "국립현대미술관"
+    },
+    {
+        "transformed": "김천",
+        "original": "김밥천국"
+    },
+    {
+        "transformed": "맘터",
+        "original": "맘스터치"
+    },
+    {
+        "transformed": "마통",
+        "original": "마이너스 통장"
+    },
+    {
+        "transformed": "상플",
+        "original": "상상플레이"
+    },
+    {
+        "transformed": "문찐",
+        "original": "문화 찐따"
+    },
+    {
+        "transformed": "썸남",
+        "original": "썸타는 남자"
+    },
+    {
+        "transformed": "짝남",
+        "original": "짝사랑하는 남자"
+    },
+    {
+        "transformed": "솔대",
+        "original": "솔직히 말해서 대박이다"
+    },
+    {
+        "transformed": "즐감",
+        "original": "즐겁게 감상"
+    },
+    {
+        "transformed": "컴싸",
+        "original": "컴퓨터용 싸인펜"
+    },
+    {
+        "transformed": "현질",
+        "original": "현금을 지르다"
+    },
+    {
+        "transformed": "프뮤",
+        "original": "프로필 뮤직"
+    },
+    {
+        "transformed": "임티",
+        "original": "이모티콘"
+    },
+    {
+        "transformed": "전번",
+        "original": "전화번호"
+    },
+    {
+        "transformed": "진대",
+        "original": "진지한 대화"
+    },
+    {
+        "transformed": "깐머",
+        "original": "깐 머리"
+    },
+    {
+        "transformed": "덮머",
+        "original": "덮은 머리"
+    },
+    {
+        "transformed": "테토남",
+        "original": "테스토스테론 많은 남자"
+    },
+    {
+        "transformed": "에겐녀",
+        "original": "에스트로겐 많은 여자"
+    },
+    {
+        "transformed": "스공",
+        "original": "스토리 공유"
+    },
+    {
+        "transformed": "얼공",
+        "original": "얼굴 공개"
+    },
+    {
+        "transformed": "건보료",
+        "original": "건강보험료"
+    }
+]
