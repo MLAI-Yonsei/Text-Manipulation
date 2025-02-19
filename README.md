@@ -3,7 +3,7 @@
 
 Large Language Models (LLMs) have been developed across various domains, including mathematical reasoning and common sense understanding. However, their ability to process and restore altered linguistic expressions remains underexplored. To achieve human-like language understanding, LLMs must be able to process informal and altered linguistic language as well as standardized text. In today's digital landscape, altered linguistic expressions are constantly being created and proliferated without clear rules, and LLMs need to be able to identify and restore them effectively.  To assess the text manipulation capabilities of LLMs, we constructed a dataset of altered text in English and Korean to evaluate how accurately LLMs can restore it. The dataset contains various types of visual and phonetic modifications and abbreviations for each language. We applied four models and three prompt engineering to measure restoration performance. The experimental results showed that Korean tasks performed weaker than English tasks across all, and certain types of tasks showed common limitations regardless of language. This suggests that LLMs need to go beyond simple character conversion to deal with variant languages, and strengthen their visual perception and pattern reasoning skills, as well as their ability to understand linguistic context.
 
-<img width="1456" alt="intro" src="https://github.com/user-attachments/assets/d2cc58b8-3275-45be-9d5a-1a0f8d95d7a7" />
+<img width="1456" alt="intro" src="https://github.com/user-attachments/assets/d2cc58b8-3275-45be-9d5a-1a0f8d95d7a7" />  
   
   
 ## Setup
@@ -12,7 +12,7 @@ To run the experiment, install the required packages.
 Python==3.12.3 
 ```bash
 pip install -r requirements.txt
-```
+```  
 
   
 ## Data preperation
@@ -54,7 +54,7 @@ Dataset_Building/eng_split_letters.ipynb
 ```bash
 Dataset_Building/kor_split_letters.ipynb
 ```
-> Splits collected Korean words into consonants and vowels for the Korean Consonant & Vowel Combination task.
+> Splits collected Korean words into consonants and vowels for the Korean Consonant & Vowel Combination task.  
 
   
 ## Run
@@ -69,7 +69,7 @@ Task/gpt4o_batch.ipynb
 Task/gemini.ipynb
 Task/claude_batch.ipynb
 Task/gpto3mini.ipynb
-```
+```  
 
   
 ## Evaluation Preprocessing
@@ -83,7 +83,7 @@ Preprocessing/answer_split.ipynb
 ```bash
 Preprocessing/abbreviation_preprocessing.ipynb
 ```
-> For English and Korean abbreviation tasks, LLMs generate five responses. This script selects the most similar response to the ground truth for evaluation.
+> For English and Korean abbreviation tasks, LLMs generate five responses. This script selects the most similar response to the ground truth for evaluation.  
 
   
 ## Evaluation
@@ -97,7 +97,7 @@ Evaluating/evaluation_main_task.ipynb
 ```bash
 Evaluating/evaluation_main_task_eng_consonant_vowel.ipynb
 ```
-> Uses a different evaluation standard for the English Consonant & Vowel Combination task.
+> Uses a different evaluation standard for the English Consonant & Vowel Combination task.  
   
 **Failure Case Analysis** can be performed using the following scripts:
 
