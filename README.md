@@ -85,13 +85,9 @@ Task/gpto3mini.ipynb
 Before evaluating LLM responses, preprocessing is performed using the scripts in the `Preprocessing` folder.
 
 ```bash
-Preprocessing/answer_split.ipynb
-```
-> Parses the original words from the full responses of LLMs based on the predefined `Answer format` in the prompt.
-
-```bash
 Preprocessing/abbreviation_preprocessing.ipynb
 ```
+> For English and Korean abbreviation tasks, LLMs generate five responses. This script selects the most similar response to the ground truth for evaluation.
 
   
 ## Evaluation
