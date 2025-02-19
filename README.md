@@ -17,7 +17,8 @@ pip install -r requirements.txt
   
 ## Data preperation
 ### 1) Augmentation
-Use the `Augmentation` folder inside `Dataset Building` to augment data using the provided pre-augmentation dataset and related scripts. The final dataset is created by merging manually collected and augmented data.
+Use the `Augmentation` folder inside `Dataset Building` to augment data using the provided pre-augmentation dataset and related scripts. The final dataset is created by merging manually collected and augmented data.  
+The raw dataset may change depending on the words used, so it is not provided. The sources of the raw dataset are documented in the research paper.
 
 **Augmentation Tasks:**
 - Kor Letter Rotation
@@ -32,6 +33,7 @@ Dataset_Building/Augmentation/kor_letter_rotation_rule.ipynb
 Dataset_Building/Augmentation/kor_visual_transform_rule.ipynb
 ```
 > Applies transformation rules for the Korean Visual Transform Task dataset augmentation. Manual inspection ensures no redundant transformations are applied.
+> Manual inspection ensures that the same transformation rule is not applied redundantly.
 
 ### 2) Preprocessing
 To finalize the dataset for the experiment, preprocess the collected and augmented raw data. The sources of the raw dataset are documented in the research paper.
