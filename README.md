@@ -34,6 +34,8 @@ Dataset_Building/Augmentation/kor_visual_transform_rule.ipynb
 ```
 > Applies transformation rules for the Korean Visual Transform Task dataset augmentation. Manual inspection ensures that the same transformation rule is not applied redundantly.
 
+Conclusively, the collected and augmented data are stored separately within the Dataset Building/Augmentation/Data directory, and their combination has been utilized as the final merged dataset.
+
 ### 2) Preprocessing
 To finalize the dataset for the experiment, preprocess the collected and augmented raw data. The sources of the raw dataset are documented in the research paper.
 
