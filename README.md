@@ -1,9 +1,10 @@
 # Large Language Models and Text Manipulation
 ## : Limits and Potential in Handling Altered Linguistic Expressions
 
-Large language models (LLMs) are advancing in many areas, but the extent to which they understand transformed language expressions has not been fully explored. In digital environments, variant language expressions are constantly being created and proliferated without clear rules. Therefore, LLMs need to be able to identify and process informal expressions effectively. In this study, we constructed a dataset of English and Korean variant texts that are difficult for LLMs to process. The dataset consists of visual and pronunciation variant expressions, contextual language such as abbreviations, and segmented consonant and vowel combinations. We evaluated the performance of restoring variant language through prompt engineering and found that Korean performance was relatively lower than English for all models, with difficulties in certain types.
+Large Language Models (LLMs) have been developed across various domains, including mathematical reasoning and common sense understanding. However, their ability to process and restore altered linguistic expressions remains underexplored. To achieve human-like language understanding, LLMs must be able to process informal and altered linguistic language as well as standardized text. In today's digital landscape, altered linguistic expressions are constantly being created and proliferated without clear rules, and LLMs need to be able to identify and restore them effectively.  To assess the text manipulation capabilities of LLMs, we constructed a dataset of altered text in English and Korean to evaluate how accurately LLMs can restore it. The dataset contains various types of visual and phonetic modifications and abbreviations for each language. We applied four models and three prompt engineering to measure restoration performance. The experimental results showed that Korean tasks performed weaker than English tasks across all, and certain types of tasks showed common limitations regardless of language. This suggests that LLMs need to go beyond simple character conversion to deal with variant languages, and strengthen their visual perception and pattern reasoning skills, as well as their ability to understand linguistic context.
 
 <img width="1456" alt="intro" src="https://github.com/user-attachments/assets/d2cc58b8-3275-45be-9d5a-1a0f8d95d7a7" />
+
 
 ## Setup
 To run the experiment, install the required packages.
@@ -12,6 +13,7 @@ Python==3.12.3
 ```bash
 pip install -r requirements.txt
 ```
+
 
 ## Data preperation
 ### 1) Augmentation
@@ -54,6 +56,7 @@ Dataset_Building/kor_split_letters.ipynb
 ```
 > Splits collected Korean words into consonants and vowels for the Korean Consonant & Vowel Combination task.
 
+
 ## Run
 The constructed dataset is stored in the `Dataset` folder. Use this dataset along with the models in the `Task` folder to evaluate LLMs' word restoration capabilities.
 📌 **GPT o3-mini** is only used for error case analysis in this study.
@@ -68,6 +71,7 @@ Task/claude_batch.ipynb
 Task/gpto3mini.ipynb
 ```
 
+
 ## Evaluation Preprocessing
 Before evaluating LLM responses, preprocessing is performed using the scripts in the `Preprocessing` folder.
 
@@ -80,6 +84,7 @@ Preprocessing/answer_split.ipynb
 Preprocessing/abbreviation_preprocessing.ipynb
 ```
 > For English and Korean abbreviation tasks, LLMs generate five responses. This script selects the most similar response to the ground truth for evaluation.
+
 
 ## Evaluation
 Assess the performance of different models and analyze the results.
