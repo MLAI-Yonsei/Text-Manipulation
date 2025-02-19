@@ -37,12 +37,12 @@ Dataset_Building/Augmentation/kor_visual_transform_rule.ipynb
 To finalize the dataset for the experiment, preprocess the collected and augmented raw data. The sources of the raw dataset are documented in the research paper.
 
 ```bash
-Dataset_Building/Augmentation/eng_phonetic_preprocessing.ipynb
+Dataset_Building/eng_phonetic_preprocessing.ipynb
 ```
 > Filters phonetic similarity data for the English Phonetic Substitution task using the `double metaphone` algorithm.
 
 ```bash
-Dataset_Building/Augmentation/eng_abbreviation_preprocessing.ipynb
+Dataset_Building/eng_abbreviation_preprocessing.ipynb
 ```
 > Filters abbreviation-compliant data for the English Abbreviation task using the appropriate rules.
 
@@ -62,7 +62,7 @@ The constructed dataset is stored in the `Dataset` folder. Use this dataset alon
 📌 **GPT o3-mini** is only used for error case analysis in this study.
 
 ### Available Prompts
-The `prompts.json` file contains prompts for Zero-shot, CoT (Chain-of-Thought), and CoT+ICL (In-Context Learning) settings.
+The `prompts.json` file contains all prompts for Zero-shot, CoT (Chain-of-Thought), and CoT+ICL (In-Context Learning) settings.
 
 ```bash
 Task/gpt4o_batch.ipynb
@@ -83,7 +83,6 @@ Preprocessing/answer_split.ipynb
 ```bash
 Preprocessing/abbreviation_preprocessing.ipynb
 ```
-> For English and Korean abbreviation tasks, LLMs generate five responses. This script selects the most similar response to the ground truth for evaluation.  
 
   
 ## Evaluation
