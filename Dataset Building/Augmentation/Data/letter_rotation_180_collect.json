@@ -1,0 +1,294 @@
+[
+    {
+        "original": "고",
+        "transformed": "ㄸ"
+    },
+    {
+        "original": "끄",
+        "transformed": "ㄸ"
+    },
+    {
+        "original": "구",
+        "transformed": "亡"
+    },
+    {
+        "original": "구룡마을",
+        "transformed": "릉ㅓㅁ율亡"
+    },
+    {
+        "original": "곰",
+        "transformed": "문"
+    },
+    {
+        "original": "국",
+        "transformed": "논"
+    },
+    {
+        "original": "공용물품",
+        "transformed": "뫂롬융운"
+    },
+    {
+        "original": "굥",
+        "transformed": "윤"
+    },
+    {
+        "original": "풍운",
+        "transformed": "공옾"
+    },
+    {
+        "original": "어",
+        "transformed": "ㅏㅇ"
+    },
+    {
+        "original": "육군",
+        "transformed": "곤뇽"
+    },
+    {
+        "original": "공군",
+        "transformed": "곤운"
+    },
+    {
+        "original": "곰국",
+        "transformed": "논문"
+    },
+    {
+        "original": "운율",
+        "transformed": "룡공"
+    },
+    {
+        "original": "물론",
+        "transformed": "굴롬"
+    },
+    {
+        "original": "구몬",
+        "transformed": "굼亡"
+    },
+    {
+        "original": "골룸",
+        "transformed": "몰룬"
+    },
+    {
+        "original": "녹음",
+        "transformed": "믕눅"
+    },
+    {
+        "original": "금융",
+        "transformed": "용믄"
+    },
+    {
+        "original": "능글",
+        "transformed": "른윽"
+    },
+    {
+        "original": "육근옥",
+        "transformed": "눙근뇽"
+    },
+    {
+        "original": "개새끼",
+        "transformed": "ILL HV HL"
+    },
+    {
+        "original": "논공",
+        "transformed": "운국"
+    },
+    {
+        "original": "오목",
+        "transformed": "눔ꅂ"
+    },
+    {
+        "original": "폭음룡",
+        "transformed": "율믕눞"
+    },
+    {
+        "original": "디씨",
+        "transformed": "IWㅁ"
+    },
+    {
+        "original": "금물",
+        "transformed": "롬믄"
+    },
+    {
+        "original": "폭풍",
+        "transformed": "옾눞"
+    },
+    {
+        "original": "눈물",
+        "transformed": "롬곡"
+    },
+    {
+        "original": "폭풍눈물",
+        "transformed": "롬곡옾눞"
+    },
+    {
+        "original": "굴욕",
+        "transformed": "늉론"
+    },
+    {
+        "original": "폭풍굴욕",
+        "transformed": "늉론옾눞"
+    },
+    {
+        "original": "폭풍저그",
+        "transformed": "匸ㅏㅛ옾눞"
+    },
+    {
+        "original": "시공의 폭풍",
+        "transformed": "옾눞 Iㆆ운IV"
+    },
+    {
+        "original": "오늘은 영국이다",
+        "transformed": "ㅓ⊃IO논ꄗㅇ 긍륵ꅂ"
+    },
+    {
+        "original": "모히또에서 몰디브 한 잔",
+        "transformed": "ㅓ교 ㅋ우 Āㅁ룸 ㅏVIЮ五I우石"
+    },
+    {
+        "original": "능금",
+        "transformed": "믄윽"
+    },
+    {
+        "original": "너 그리고 나",
+        "transformed": "ㅓㄱ 띠ㄹ匸 ㅏㄱ"
+    },
+    {
+        "original": "물",
+        "transformed": "롬"
+    },
+    {
+        "original": "근육",
+        "transformed": "뇽근"
+    },
+    {
+        "original": "눈높이",
+        "transformed": "IO푹곡"
+    },
+    {
+        "original": "눈높이",
+        "transformed": "ㅣㅇ푹곡"
+    },
+    {
+        "original": "능률",
+        "transformed": "룔윽"
+    },
+    {
+        "original": "용궁",
+        "transformed": "온융"
+    },
+    {
+        "original": "온몸",
+        "transformed": "뭄궁"
+    },
+    {
+        "original": "몽골",
+        "transformed": "룬움"
+    },
+    {
+        "original": "공룡",
+        "transformed": "율운"
+    },
+    {
+        "original": "몰폰",
+        "transformed": "궆룸"
+    },
+    {
+        "original": "골목",
+        "transformed": "눔룬"
+    },
+    {
+        "original": "어머니",
+        "transformed": "ㅣㄱㅏㅁㅏㅇ"
+    },
+    {
+        "original": "아버지",
+        "transformed": "ㅣㅛㅏAㅓO"
+    },
+    {
+        "original": "어버이",
+        "transformed": "IOㅏAㅏO"
+    },
+    {
+        "original": "폰",
+        "transformed": "궆"
+    },
+    {
+        "original": "울릉군",
+        "transformed": "곤을롱"
+    },
+    {
+        "original": "목욕",
+        "transformed": "늉눔"
+    },
+    {
+        "original": "목욕용품",
+        "transformed": "뫂융늉눔"
+    },
+    {
+        "original": "물품",
+        "transformed": "뫂롬"
+    },
+    {
+        "original": "이새롬",
+        "transformed": "물HVIO"
+    },
+    {
+        "original": "음운론",
+        "transformed": "굴공믕"
+    },
+    {
+        "original": "목공풀",
+        "transformed": "롶운눔"
+    },
+    {
+        "original": "아이폰",
+        "transformed": "궆IOㅓO"
+    },
+    {
+        "original": "이어폰",
+        "transformed": "궆ㅏㅇIO"
+    },
+    {
+        "original": "옹기",
+        "transformed": "IL웅"
+    },
+    {
+        "original": "농구공",
+        "transformed": "운亡욱"
+    },
+    {
+        "original": "아시아",
+        "transformed": "ㅓOIVㅓO"
+    },
+    {
+        "original": "미국",
+        "transformed": "논ㅣㅁ"
+    },
+    {
+        "original": "카리나",
+        "transformed": "ㅓㄱㅣㄹㅓ匕"
+    },
+    {
+        "original": "카데나",
+        "transformed": "ㅓㄱㅣㅏコㅓ匕"
+    },
+    {
+        "original": "문은율",
+        "transformed": "룡긍곰"
+    },
+    {
+        "original": "문재인",
+        "transformed": "I∂Hと곰"
+    },
+    {
+        "original": "또치",
+        "transformed": "IҰ五"
+    },
+    {
+        "original": "카이저",
+        "transformed": "ㅏㅛㅣㅇㅓ匕"
+    },
+    {
+        "original": "리어카",
+        "transformed": "ㅓ匕ㅏㅇIㄹ"
+    }
+]

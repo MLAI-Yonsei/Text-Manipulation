@@ -1,0 +1,14 @@
+anthropic
+doublemetaphone
+gensim
+google-generativeai
+jamo
+Levenshtein
+nltk
+numpy
+openai
+openpyxl
+pandas
+python-dotenv
+requests
+scikit-learn
