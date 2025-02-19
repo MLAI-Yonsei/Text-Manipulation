@@ -74,7 +74,7 @@ The `prompts.json` file contains all prompts for Zero-shot, CoT (Chain-of-Though
 Task/gpt4o_batch.ipynb
 Task/gemini.ipynb
 Task/claude_batch.ipynb
-Task/gpto3mini.ipynb
+Task/gpto3_mini.ipynb
 ```
 
   
