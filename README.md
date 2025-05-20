@@ -1,4 +1,4 @@
-# Evaluating LLMs Beyond Standard Text:
+# Evaluating LLMs Beyond Standard Text
 ## : A Benchmark on Non-Traditional Text Variations
 
 Large language models (LLMs) perform well on standard inputs but struggle with non-standard or transformed language found in real-world digital communication. This paper introduces a multilingual benchmark and evaluation framework designed to assess LLMs' ability to restore original meanings from heavily modified or playful text in both English and Korean. Our dataset includes visual and phonetic substitutions, abbreviations, and character-level manipulations. We conduct a comprehensive evaluation of state-of-the-art LLMs under three prompting paradigms: Zero-Shot, CoT, and CoT+ICL. Results highlight performance gaps, especially in Korean tasks compared to English tasks, and show how prompt engineering and model architecture influence robustness to linguistic variations.
