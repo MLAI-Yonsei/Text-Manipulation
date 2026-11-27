@@ -3,8 +3,7 @@
 
 Non-standard and transformed language is pervasive in digital communication, yet it remains unclear whether large language models (LLMs) can recover the original forms of such expressions. This paper introduces a multilingual benchmark and evaluation framework designed to assess LLMs' ability to restore the original forms and meanings from heavily modified or playful text in both English and Korean. Our dataset includes over 17,000 instances spanning visual and phonetic substitutions, abbreviations, and character-level manipulations. We conduct a comprehensive evaluation of multiple widely used LLMs under three prompting paradigms (Zero-Shot, CoT, CoT+ICL) and explore advanced verification approaches. Results reveal persistent challenges even with sophisticated methods, particularly in Korean tasks involving perceptual and cultural variations. This work establishes a benchmark that remains challenging for current LLMs.
 
-<img width="1456" alt="intro" src="https://github.com/user-attachments/assets/d2cc58b8-3275-45be-9d5a-1a0f8d95d7a7" />  
-  
+<img width="1101" height="430" alt="intro" src="https://github.com/user-attachments/assets/4b7c8de5-6417-4e58-9577-6355c7755185" />
   
 ## Setup
 To run the experiment, install the required packages.
