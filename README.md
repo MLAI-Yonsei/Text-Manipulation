@@ -1,7 +1,7 @@
 # Evaluating LLMs Beyond Standard Text
 ## : A Benchmark on Non-Traditional Text Variations
 
-Large language models (LLMs) perform well on standard inputs but struggle with non-standard or transformed language found in real-world digital communication. This paper introduces a multilingual benchmark and evaluation framework designed to assess LLMs' ability to restore original forms and meanings from heavily modified or playful text in both English and Korean. Our dataset includes over 17,000 instances spanning visual and phonetic substitutions, abbreviations, and character-level manipulations. We conduct a comprehensive evaluation of multiple widely used LLMs under three prompting paradigms (Zero-Shot, CoT, CoT+ICL) and explore advanced verification approaches. Results reveal persistent challenges even with sophisticated methods, particularly in Korean tasks involving perceptual and cultural variations. This work establishes a challenging benchmark that remains difficult for current LLMs.
+Non-standard and transformed language is pervasive in digital communication, yet it remains unclear whether large language models (LLMs) can recover the original forms of such expressions. This paper introduces a multilingual benchmark and evaluation framework designed to assess LLMs' ability to restore the original forms and meanings from heavily modified or playful text in both English and Korean. Our dataset includes over 17,000 instances spanning visual and phonetic substitutions, abbreviations, and character-level manipulations. We conduct a comprehensive evaluation of multiple widely used LLMs under three prompting paradigms (Zero-Shot, CoT, CoT+ICL) and explore advanced verification approaches. Results reveal persistent challenges even with sophisticated methods, particularly in Korean tasks involving perceptual and cultural variations. This work establishes a benchmark that remains challenging for current LLMs.
 
 <img width="1456" alt="intro" src="https://github.com/user-attachments/assets/d2cc58b8-3275-45be-9d5a-1a0f8d95d7a7" />  
   
@@ -15,7 +15,10 @@ pip install -r requirements.txt
 ```  
 
   
-## Data preperation
+## Data Preparation
+> **Content Warning**
+> This dataset contains non-standard expressions (e.g., leetspeak, slang, and abbreviations) collected from public online sources. Although we removed expressions that could pose serious problems, some profane or offensive language may remain, as such expressions are part of the linguistic phenomena studied in this work.
+
 ### 1) Augmentation
 Use the `Augmentation` folder inside `Dataset Building` to augment data using the provided pre-augmentation dataset and related scripts. The final dataset is created by merging manually collected and augmented data.  
 The raw dataset may change depending on the words used, so it is not provided. The sources of the raw dataset are documented in the research paper.
@@ -57,7 +60,6 @@ Dataset_Building/kor_split_letters.ipynb
   
 ## Run
 The constructed dataset is stored in the `Dataset` folder. Use this dataset along with the models in the `Task` folder to evaluate LLMs' word restoration capabilities.
-📌 **GPT o3-mini** is only used for error case analysis in this study.
 
 ### Available Prompts
 The `prompts.json` file contains all prompts for Zero-shot, CoT (Chain-of-Thought), and CoT+ICL (In-Context Learning) settings.
@@ -74,7 +76,6 @@ The `prompts.json` file contains all prompts for Zero-shot, CoT (Chain-of-Though
 Task/gpt4o_batch.ipynb
 Task/gemini.ipynb
 Task/claude_batch.ipynb
-Task/gpto3_mini.ipynb
 ```
 
   
@@ -93,21 +94,10 @@ Assess the performance of different models and analyze the results.
 ```bash
 Evaluating/evaluation_main_task.ipynb
 ```
-> Evaluates model performance for the main task.
+> Evaluates one task under Zero-Shot, CoT, and CoT+ICL predictions with four metrics: Accuracy, Edit Distance, Sentence-BERT, and chrF++.
 
-```bash
-Evaluating/evaluation_main_task_eng_consonant_vowel.ipynb
-```
-> Uses a different evaluation standard for the English Consonant & Vowel Combination task.  
-  
-**Failure Case Analysis** can be performed using the following scripts:
-
-```bash
-Evaluating/evaluation_failure_case.ipynb
-```
-> Analyzes GPT o3-mini failure cases and compares them with other models.
-
-```bash
-Evaluating/evaluation_failure_case_eng_consonant_vowel.ipynb
-```
-> Uses a different evaluation standard for failure cases in the English Consonant & Vowel Combination task.
+- **Normalization**: All text is NFC-normalized and lowercased, and characters other than Latin letters, digits, and Hangul are removed. Accuracy and Edit Distance additionally remove spaces; Sentence-BERT and chrF++ keep word boundaries.
+- **Multiple references**: References separated by `|` are treated as alternative answers, and each prediction is scored against the best-matching one.
+- **Sentence-BERT**: `all-MiniLM-L6-v2` for English tasks and `jhgan/ko-sroberta-multitask` for Korean tasks.
+- **chrF++**: Mean sentence-level score with `char_order=6`, `word_order=2`, and `beta=2` (sacrebleu 2.5.1).
+- **English Consonant & Vowel Combination**: For Accuracy, a prediction is also counted as correct if it is an anagram of the reference and a valid English word in the NLTK `words` corpus.
