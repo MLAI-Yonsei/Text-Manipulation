@@ -11,4 +11,6 @@ openpyxl
 pandas
 python-dotenv
 requests
+sacrebleu==2.5.1
 scikit-learn
+sentence-transformers
